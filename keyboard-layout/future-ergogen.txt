@@ -1,0 +1,48 @@
+points:
+  zones:
+    main:
+      rows:
+        space:
+        bottom:
+        home:
+        top:
+        num-row:
+        f-row:
+      columns:
+        num0:
+        num1:
+          rows.space.skip: true
+        num2:
+        num3:
+          rows.space.skip: true
+          rows.home.skip: true
+        l-arrow:
+          rows.bottom.skip: true
+          rows.home.skip: true
+        d-arrow:
+          rows.home.skip: true
+        r-arrow:
+          rows.bottom.skip: true
+          rows.home.skip: true
+        l-funct0:
+        l-pinky:
+        l-ring:
+        l-middle:
+        l-index:
+        l-thumb:
+        r-thumb:
+        r-index:
+        r-middle:
+        r-ring:
+        r-pinky:
+        r-funct0:
+        r-funct1:
+          rows.bottom.skip: true
+        r-funct2:
+          rows.f-row.skip: true
+          rows.home.skip: true
+          rows.bottom.skip: true
+          rows.space.skip: true
+
+
+
