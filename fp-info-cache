@@ -1,4 +1,4 @@
-24713021897655103
+24713021898077392
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -100205,13 +100205,6 @@ switch, low_profile, hot_swap
 6
 2
 key-switches
-SW_Gateron_LowProfile_HotSwap_PTH_rgb
-Gateron Low Profile (KS-27 & KS-33) style mechanical keyboard switch, Gateron Low Profile hot-swap socket and through-hole soldering, the hole of the socket is plated, single-sided mounting. Gateron Low Profile and Cherry MX Low Profile are NOT compatible.
-switch, low_profile, hot_swap
-0
-6
-2
-key-switches
 SW_Gateron_LowProfile_HotSwap_THT
 Gateron Low Profile (KS-27 & KS-33) style mechanical keyboard switch, Gateron Low Profile hot-swap socket and through-hole soldering, single-sided mounting. Gateron Low Profile and Cherry MX Low Profile are NOT compatible.
 switch, low_profile, hot_swap
@@ -100407,6 +100400,20 @@ switch
 0
 2
 2
+my-footprints
+LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm_hole
+https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf
+LED RGB NeoPixel Mini
+0
+4
+4
+my-footprints
+SW_Gateron_LowProfile_HotSwap_PTH_rgb
+Gateron Low Profile (KS-27 & KS-33) style mechanical keyboard switch, Gateron Low Profile hot-swap socket and through-hole soldering, the hole of the socket is plated, single-sided mounting. Gateron Low Profile and Cherry MX Low Profile are NOT compatible.
+switch, low_profile, hot_swap
+0
+10
+4
 random-keyboard-parts
 D_SOD-123-Pretty
 SOD-123
@@ -100470,13 +100477,6 @@ LED diameter 3.0mm 2 pins
 0
 2
 2
-random-keyboard-parts
-LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm_hole
-https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf
-LED RGB NeoPixel Mini
-0
-4
-4
 random-keyboard-parts
 Molex-0548190519
 

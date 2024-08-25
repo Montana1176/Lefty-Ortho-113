@@ -1,0 +1,215 @@
+#ergogen_stagger
+units:
+ # Proxy Spacing Variables
+ kx: u
+ ky: u
+ # Padding Variables
+ px: kx + 4
+ py: ky + 4
+points:
+ zones:
+  matrix:
+   key:
+    padding: 1ky
+    spread: 1kx
+   rows:
+    space:
+    bottom:
+    home:
+    top:
+    num-row:
+    f-row:
+   columns:
+    num0:
+    num1:
+     rows.space.skip: true
+    num2:
+    num3:
+     rows.space.skip: true
+     rows.home.skip: true
+    l-arrow:
+     key.spread: 25
+     rows.bottom.skip: true
+     rows.home.skip: true
+    d-arrow:
+     rows.home.skip: true
+    r-arrow:
+     rows.bottom.skip: true
+     rows.home.skip: true
+    l-funct0:
+     key.spread: 25
+    l-pinky:
+    l-ring:
+     key.stagger: 19
+    l-middle:
+     key.stagger: 19
+    l-index:
+     key.stagger: -19
+    l-thumb:
+    r-thumb:
+    r-index:
+    r-middle:
+     key.stagger: 19
+    r-ring:
+     key.stagger: -19
+    r-pinky:
+     key.stagger: -19
+    r-funct0:
+    r-funct1:
+     rows.bottom.skip: true
+    r-funct2:
+     rows.f-row.skip: true
+     rows.home.skip: true
+     rows.bottom.skip: true
+     rows.space.skip: true
+#stagger with tight surround
+outlines:
+ raw:
+  - what: rectangle
+   where: true
+   bound: true
+   size: [px, py]
+ keys:
+  - what: rectangle
+   where: true
+   bound: false
+   size: [kx-0.5,ky-0.5]
+ board:
+  - what: polygon
+   operation: stack
+   points:
+    - ref: matrix_num0_f-row
+     shift: [-0.55px,0.55py]
+    - ref: matrix_num0_space
+     shift: [-0.55px,-0.55py]
+    - ref: matrix_num2_space
+     shift: [0,-0.55py]
+    - ref: matrix_l-arrow_space
+     shift: [0,-0.55py]
+    - ref: matrix_r-arrow_space
+     shift: [0,-0.55py]
+    - ref: matrix_l-funct0_space
+     shift: [0,-0.55py]
+    - ref: matrix_r-funct1_space
+     shift: [0,-0.55py]
+    - ref: matrix_r-funct2_top
+     shift: [0.55px,-3.04py]
+    - ref: matrix_r-funct2_num-row
+     shift: [0.55px,1.38py]
+    - ref: matrix_r-middle_f-row
+     shift: [0.55px,0.55py]
+    - ref: matrix_l-middle_f-row
+     shift: [-0.55px,0.55py]
+   fillet: 4
+ combo:
+  - name: board
+  - operation: subtract
+   name: keys
+
+
+units:
+ # Proxy Spacing Variables
+ kx: u
+ ky: u
+ # Padding Variables
+ px: kx + 4
+ py: ky + 4
+points:
+ zones:
+  matrix:
+   key:
+    padding: 1ky
+    spread: 1kx
+   rows:
+    space:
+    bottom:
+    home:
+    top:
+    num-row:
+    f-row:
+   columns:
+    num0:
+    num1:
+     rows.space.skip: true
+    num2:
+    num3:
+     rows.space.skip: true
+     rows.home.skip: true
+    l-arrow:
+     key.spread: 25
+     rows.bottom.skip: true
+     rows.home.skip: true
+    d-arrow:
+     rows.home.skip: true
+    r-arrow:
+     rows.bottom.skip: true
+     rows.home.skip: true
+    l-funct0:
+     key.spread: 25
+    l-pinky:
+    l-ring:
+     key.stagger: 19
+    l-middle:
+     key.stagger: 19
+    l-index:
+     key.stagger: -19
+    l-thumb:
+    r-thumb:
+    r-index:
+    r-middle:
+     key.stagger: 19
+    r-ring:
+     key.stagger: -19
+    r-pinky:
+     key.stagger: -19
+    r-funct0:
+    r-funct1:
+     rows.bottom.skip: true
+    r-funct2:
+     rows.f-row.skip: true
+     rows.home.skip: true
+     rows.bottom.skip: true
+     rows.space.skip: true
+#stagger with full surround
+outlines:
+ raw:
+  - what: rectangle
+   where: true
+   bound: true
+   size: [px, py]
+ keys:
+  - what: rectangle
+   where: true
+   bound: false
+   size: [kx-0.5,ky-0.5]
+ board:
+  - what: polygon
+   operation: stack
+   points:
+    - ref: matrix_num0_f-row
+     shift: [-0.55px,2.2py]
+    - ref: matrix_num0_space
+     shift: [-0.55px,-0.55py]
+    - ref: matrix_num2_space
+     shift: [0,-0.55py]
+    - ref: matrix_l-arrow_space
+     shift: [0,-0.55py]
+    - ref: matrix_r-arrow_space
+     shift: [0,-0.55py]
+    - ref: matrix_l-funct0_space
+     shift: [0,-0.55py]
+    - ref: matrix_r-funct1_space
+     shift: [0,-0.55py]
+    - ref: matrix_r-funct2_top
+     shift: [0.55px,-3.04py]
+    - ref: matrix_r-funct2_num-row
+     shift: [0.55px,3.04py]
+    - ref: matrix_r-middle_f-row
+     shift: [0.55px,0.55py]
+    - ref: matrix_l-middle_f-row
+     shift: [-0.55px,0.55py]
+   fillet: 4
+ combo:
+  - name: board
+  - operation: subtract
+   name: keys
