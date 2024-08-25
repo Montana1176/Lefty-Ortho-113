@@ -8,7 +8,7 @@
 	(property "Reference" "${REFERENCE}"
 		(at 0 -9 0)
 		(unlocked yes)
-		(layer "F.SilkS")
+		(layer "F.Fab")
 		(hide yes)
 		(uuid "70186eba-dcad-4878-bf16-887f6eee49df")
 		(effects
@@ -645,6 +645,19 @@
 		(fill solid)
 		(layer "F.Fab")
 		(uuid "4d1ed1f1-27d2-4224-bf8c-d806d5927c7b")
+	)
+	(fp_text user "GND"
+		(at -2.45 -6.5 0)
+		(unlocked yes)
+		(layer "B.SilkS")
+		(uuid "cd2e7f16-c28f-4859-9e6e-7c556878c243")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 -5.25 180)
