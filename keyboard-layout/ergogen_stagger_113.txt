@@ -101,7 +101,15 @@ outlines:
         - ref: matrix_l-middle_f-row
           shift: [-0.55px,0.55py]
       fillet: 4
-  combo:
+  plate:
     - name: board
     - operation: subtract
       name: keys
+  combo:
+    - name: board
+    - operation: stack
+      name: keys
+pcbs:
+  stagger:
+    outlines:
+      - outline: combo

@@ -100,7 +100,16 @@ outlines:
         - ref: matrix_num3_f-row
           shift: [0,0.55py]
       fillet: 4
-  combo:
+  plate:
     - name: board
     - operation: subtract
       name: keys
+  combo:
+    - name: board
+    - operation: stack
+      name: keys
+pcbs:
+  ortho:
+    outlines:
+      - outline: combo
+      
