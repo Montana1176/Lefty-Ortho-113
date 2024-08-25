@@ -113,3 +113,11 @@ pcbs:
   stagger:
     outlines:
       - outline: combo
+    footprints:
+      - what: diode
+        where: true
+        params:
+          from: "{{colrow}}"
+          to: "{{row_net}}"
+        adjust:
+          shift: [0, -9.5]

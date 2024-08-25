@@ -91,13 +91,17 @@ outlines:
           shift: [0.55px,1.38py]
         - ref: matrix_r-funct1_f-row
           shift: [0,0.55py]
+        - ref: matrix_l-pinky_f-row
+          shift: [0,0.55py]
         - ref: matrix_l-funct0_f-row
-          shift: [0,0.55py]
+          shift: [0,2.25py]
         - ref: matrix_r-arrow_f-row
-          shift: [0,0.55py]
+          shift: [0,2.25py]
         - ref: matrix_l-arrow_f-row
-          shift: [0,0.55py]
+          shift: [0,2.25py]
         - ref: matrix_num3_f-row
+          shift: [0,2.25py]
+        - ref: matrix_num2_f-row
           shift: [0,0.55py]
       fillet: 4
   plate:
@@ -112,4 +116,11 @@ pcbs:
   ortho:
     outlines:
       - outline: combo
-      
+    footprints:
+      - what: diode
+        where: true
+        params:
+          from: "{{colrow}}"
+          to: "{{row_net}}"
+        adjust:
+          shift: [0, -9.5]
