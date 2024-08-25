@@ -4,4 +4,5 @@
   (lib (name "random-keyboard-parts")(type "KiCad")(uri "${KIPRJMOD}/random-keyboard-parts.pretty")(options "")(descr ""))
   (lib (name "key-switches")(type "KiCad")(uri "${KIPRJMOD}/key-switches.pretty")(options "")(descr ""))
   (lib (name "my-footprints")(type "KiCad")(uri "${KIPRJMOD}/my-footprints.pretty")(options "")(descr ""))
+  (lib (name "RP2xxx_Stamp")(type "KiCad")(uri "${KIPRJMOD}/solderparty_rp2xxx_stamp/RP2xxx_Stamp.pretty")(options "")(descr ""))
 )

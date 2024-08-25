@@ -1,4 +1,4 @@
-#ergogen_ortho_113
+# ergogen ortho 113
 units:
  # Proxy Spacing Variables
  kx: u
@@ -57,50 +57,50 @@ points:
      rows.bottom.skip: true
      rows.space.skip: true
 outlines:
- raw:
-  - what: rectangle
-   where: true
-   bound: true
-   size: [px, py]
- keys:
-  - what: rectangle
-   where: true
-   bound: false
-   size: [kx-0.5,ky-0.5]
- board:
-  - what: polygon
-   operation: stack
-   points:
-    - ref: matrix_num0_f-row
-     shift: [-0.55px,0.55py]
-    - ref: matrix_num0_space
-     shift: [-0.55px,-0.55py]
-    - ref: matrix_num2_space
-     shift: [0,-0.55py]
-    - ref: matrix_l-arrow_space
-     shift: [0,-0.55py]
-    - ref: matrix_r-arrow_space
-     shift: [0,-0.55py]
-    - ref: matrix_l-funct0_space
-     shift: [0,-0.55py]
-    - ref: matrix_r-funct1_space
-     shift: [0,-0.55py]
-    - ref: matrix_r-funct2_top
-     shift: [0.55px,-3.04py]
-    - ref: matrix_r-funct2_num-row
-     shift: [0.55px,1.38py]
-    - ref: matrix_r-funct1_f-row
-     shift: [0,0.55py]
-    - ref: matrix_l-funct0_f-row
-     shift: [0,0.55py]
-    - ref: matrix_r-arrow_f-row
-     shift: [0,0.55py]
-    - ref: matrix_l-arrow_f-row
-     shift: [0,0.55py]
-    - ref: matrix_num3_f-row
-     shift: [0,0.55py]
-   fillet: 4
- combo:
-  - name: board
-  - operation: subtract
-   name: keys
+  raw:
+    - what: rectangle
+      where: true
+      bound: true
+      size: [px, py]
+  keys:
+    - what: rectangle
+      where: true
+      bound: false
+      size: [kx-0.5, ky-0.5]
+  board:
+    - what: polygon
+      operation: stack
+      points:
+        - ref: matrix_num0_f-row
+          shift: [-0.55px,0.55py]
+        - ref: matrix_num0_space
+          shift: [-0.55px,-0.55py]
+        - ref: matrix_num2_space
+          shift: [0,-0.55py]
+        - ref: matrix_l-arrow_space
+          shift: [0,-0.55py]
+        - ref: matrix_r-arrow_space
+          shift: [0,-0.55py]
+        - ref: matrix_l-funct0_space
+          shift: [0,-0.55py]
+        - ref: matrix_r-funct1_space
+          shift: [0,-0.55py]
+        - ref: matrix_r-funct2_top
+          shift: [0.55px,-3.04py]
+        - ref: matrix_r-funct2_num-row
+          shift: [0.55px,1.38py]
+        - ref: matrix_r-funct1_f-row
+          shift: [0,0.55py]
+        - ref: matrix_l-funct0_f-row
+          shift: [0,0.55py]
+        - ref: matrix_r-arrow_f-row
+          shift: [0,0.55py]
+        - ref: matrix_l-arrow_f-row
+          shift: [0,0.55py]
+        - ref: matrix_num3_f-row
+          shift: [0,0.55py]
+      fillet: 4
+  combo:
+    - name: board
+    - operation: subtract
+      name: keys
