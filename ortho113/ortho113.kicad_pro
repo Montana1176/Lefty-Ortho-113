@@ -2,24 +2,10 @@
   "board": {
     "3dviewports": [],
     "design_settings": {
-      "defaults": {
-        "board_outline_line_width": 0.1,
-        "copper_line_width": 0.2,
-        "copper_text_size_h": 1.5,
-        "copper_text_size_v": 1.5,
-        "copper_text_thickness": 0.3,
-        "other_line_width": 0.15,
-        "silk_line_width": 0.15,
-        "silk_text_size_h": 1.0,
-        "silk_text_size_v": 1.0,
-        "silk_text_thickness": 0.15
-      },
+      "defaults": {},
       "diff_pair_dimensions": [],
       "drc_exclusions": [],
-      "rules": {
-        "solder_mask_clearance": 0.0,
-        "solder_mask_min_width": 0.0
-      },
+      "rules": {},
       "track_widths": [],
       "via_dimensions": []
     },
@@ -253,7 +239,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Lefty-Ortho-104.kicad_pro",
+    "filename": "ortho113.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -370,14 +356,14 @@
       "intersheets_ref_show": false,
       "intersheets_ref_suffix": "",
       "junction_size_choice": 3,
-      "label_size_ratio": 0.25,
+      "label_size_ratio": 0.375,
       "operating_point_overlay_i_precision": 3,
       "operating_point_overlay_i_range": "~A",
       "operating_point_overlay_v_precision": 3,
       "operating_point_overlay_v_range": "~V",
       "overbar_offset_ratio": 1.23,
-      "pin_symbol_size": 0.0,
-      "text_offset_ratio": 0.08
+      "pin_symbol_size": 25.0,
+      "text_offset_ratio": 0.15
     },
     "legacy_lib_dir": "",
     "legacy_lib_list": [],
@@ -398,8 +384,16 @@
   },
   "sheets": [
     [
-      "696b9664-925e-4a6b-9ed3-42bedc57f132",
+      "54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe",
       "Root"
+    ],
+    [
+      "5fabd55d-e962-4cb6-8fb4-37116166ba8a",
+      "neopixel_matrix"
+    ],
+    [
+      "81da0763-6a40-4d28-8f30-2b8a62fdad8f",
+      "key_matrix"
     ]
   ],
   "text_variables": {}

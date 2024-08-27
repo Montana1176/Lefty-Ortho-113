@@ -5,4 +5,5 @@
   (lib (name "Lefty-Ortho-104-rescue")(type "KiCad")(uri "${KIPRJMOD}/Lefty-Ortho-104-rescue.kicad_sym")(options "")(descr ""))
   (lib (name "MCU_Module_RaspberryPi_Pico")(type "KiCad")(uri "${KIPRJMOD}/ki-lime-pi-pico_2.1.2/RaspberryPi_Pico/MCU_Module_RaspberryPi_Pico.kicad_sym")(options "")(descr ""))
   (lib (name "RP2xxx_Stamp")(type "KiCad")(uri "${KIPRJMOD}/solderparty_rp2xxx_stamp/RP2xxx_Stamp.kicad_sym")(options "")(descr ""))
+  (lib (name "my-symbols")(type "KiCad")(uri "${KIPRJMOD}/my-symbols.kicad_sym")(options "")(descr ""))
 )
