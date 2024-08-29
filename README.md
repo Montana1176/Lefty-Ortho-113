@@ -1,2 +1,2 @@
-# Lefty-Ortho-104
-104 Ortholinear Keyboard with Left Num Pad
+# Lefty-Ortho-113
+113 Key Ortholinear Keyboard with Left Num Pad
