@@ -321,6 +321,12 @@
 		(uuid "0177fd96-96d5-4baa-af70-f311f4c47a50")
 	)
 	(junction
+		(at 220.98 50.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "02c9bcf0-11d2-4329-9903-b0c39b443418")
+	)
+	(junction
 		(at 232.41 78.74)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -367,6 +373,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0b507eba-fda8-43a2-9428-15a2220656f6")
+	)
+	(junction
+		(at 67.31 50.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0cfb8b1b-5390-48c1-9396-216a149cc66f")
 	)
 	(junction
 		(at 167.64 86.36)
@@ -421,6 +433,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "18075e55-02cc-48ac-aa07-02c4b2af2ed5")
+	)
+	(junction
+		(at 132.08 50.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1bdef2d9-aa24-4736-84df-1dbee452a190")
 	)
 	(junction
 		(at 101.6 132.08)
@@ -499,6 +517,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2f166e83-6f91-41a3-ab48-47291af1ec33")
+	)
+	(junction
+		(at 140.97 50.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2f8e2cb9-8912-4b62-ab61-259a64ddd0b3")
 	)
 	(junction
 		(at 71.12 60.96)
@@ -615,6 +639,18 @@
 		(uuid "446c2f13-7ec8-47f6-9b9a-8eb7d0a47d3e")
 	)
 	(junction
+		(at 185.42 50.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "464a1f6c-064d-456e-a167-c4e29b337d3a")
+	)
+	(junction
+		(at 106.68 50.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "46b0793d-ce4e-44ea-872b-2aaf419c1d3f")
+	)
+	(junction
 		(at 171.45 60.96)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -645,6 +681,12 @@
 		(uuid "4dee5dcf-212f-4da8-9b6c-1a280e8d08d4")
 	)
 	(junction
+		(at 194.31 50.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4dfe49fc-7495-43cd-965e-086c2873023d")
+	)
+	(junction
 		(at 171.45 78.74)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -667,6 +709,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "50c8318d-2001-404d-afd0-4d0da7a1c3b9")
+	)
+	(junction
+		(at 115.57 50.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "50dfd453-8e06-45c7-8355-9836e462b3bd")
 	)
 	(junction
 		(at 140.97 86.36)
@@ -819,6 +867,12 @@
 		(uuid "7b7b8cd4-99a5-4746-9c73-c47d6263fe1a")
 	)
 	(junction
+		(at 167.64 50.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7fe4a210-46d3-4281-96ae-579fcb1f0589")
+	)
+	(junction
 		(at 127 114.3)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -837,10 +891,22 @@
 		(uuid "84132340-48e8-4121-8099-cd3454cec840")
 	)
 	(junction
+		(at 246.38 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "84d73406-374e-4c9d-857e-c24547b7f024")
+	)
+	(junction
 		(at 101.6 149.86)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "864ab0f9-ae03-4a5b-8f8a-9fe83dafd0a5")
+	)
+	(junction
+		(at 44.45 96.52)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "86bd4cac-568e-44c3-b5de-30142a6d370f")
 	)
 	(junction
 		(at 115.57 68.58)
@@ -885,6 +951,12 @@
 		(uuid "8f887489-04ec-4f6b-a200-02443f63c29b")
 	)
 	(junction
+		(at 228.6 50.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8fd00eaf-34ef-4ca0-ab44-20527b494126")
+	)
+	(junction
 		(at 135.89 149.86)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -901,6 +973,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "93292406-ab14-488d-94a6-012aaece5029")
+	)
+	(junction
+		(at 97.79 50.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "93f1780b-6755-4e91-8178-303ff0c3b2f0")
 	)
 	(junction
 		(at 144.78 149.86)
@@ -969,6 +1047,12 @@
 		(uuid "a1360b81-9bb7-4980-bcee-908efdb3c5ce")
 	)
 	(junction
+		(at 44.45 149.86)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a1623531-2eec-45e4-a923-e8ed493f74ca")
+	)
+	(junction
 		(at 149.86 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -993,6 +1077,12 @@
 		(uuid "a8efdd04-b403-47e4-bb88-f6d553426921")
 	)
 	(junction
+		(at 49.53 50.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "abeb978b-2b21-457f-ad2a-229ab14c8916")
+	)
+	(junction
 		(at 189.23 78.74)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1009,6 +1099,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "adfabb10-3b33-4a0d-9d41-63d1b6b19bfe")
+	)
+	(junction
+		(at 237.49 50.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b0019ed2-3e59-4f46-93bc-a4b73edbff9a")
 	)
 	(junction
 		(at 194.31 68.58)
@@ -1089,6 +1185,12 @@
 		(uuid "c32fe261-482b-4395-a1f4-330973734fe2")
 	)
 	(junction
+		(at 58.42 50.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c428440d-149c-4ae8-87af-d613c961f029")
+	)
+	(junction
 		(at 144.78 60.96)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1099,6 +1201,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c6b7d698-c7d9-481f-97a2-db96fb52a919")
+	)
+	(junction
+		(at 76.2 50.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c6c58a2a-e08e-4654-b8a8-5a3a91e27c16")
 	)
 	(junction
 		(at 176.53 68.58)
@@ -1153,6 +1261,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d2c14106-bf81-4b0d-b35d-126a6d2ef05a")
+	)
+	(junction
+		(at 212.09 50.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d2e054eb-e5dc-4b7a-85ef-6a58ed1d7b54")
 	)
 	(junction
 		(at 171.45 149.86)
@@ -1245,6 +1359,12 @@
 		(uuid "deb2d094-d495-4b7e-818b-4908c0b9c517")
 	)
 	(junction
+		(at 149.86 50.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "def75507-1fc8-4498-b673-b53f1de660b5")
+	)
+	(junction
 		(at 203.2 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1281,6 +1401,24 @@
 		(uuid "e5deb534-7779-4e9e-b135-01d48ab71d6f")
 	)
 	(junction
+		(at 44.45 60.96)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e5e9cb58-4765-4cde-bda8-db7a26dd7753")
+	)
+	(junction
+		(at 176.53 50.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e791e692-d9a2-4003-8eb9-06eec86c2267")
+	)
+	(junction
+		(at 44.45 114.3)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e7cda3a1-0b28-4686-b9c5-0759a3620dd5")
+	)
+	(junction
 		(at 207.01 78.74)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1297,6 +1435,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ecb2cce3-ca02-4ab2-922f-ec74ae0b65dd")
+	)
+	(junction
+		(at 44.45 78.74)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "edce2e10-b7d1-4b79-a277-e6c1d337351d")
 	)
 	(junction
 		(at 67.31 86.36)
@@ -1335,6 +1479,12 @@
 		(uuid "f7c5bde3-265c-4128-ab79-9e2c40ab56f2")
 	)
 	(junction
+		(at 44.45 132.08)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f8785904-6352-4eb2-99b8-817632982efe")
+	)
+	(junction
 		(at 76.2 68.58)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1345,6 +1495,38 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fa1a5c21-1766-44d8-8260-5d6d2b7f77a4")
+	)
+	(junction
+		(at 158.75 50.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fb570eae-4f48-44c0-95a7-e35fa79f5817")
+	)
+	(junction
+		(at 203.2 50.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fbb791cd-fe08-4c76-974c-b9235ce21d52")
+	)
+	(wire
+		(pts
+			(xy 97.79 38.1) (xy 97.79 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "016418a3-bd85-4089-8bc1-579bb16e7389")
+	)
+	(wire
+		(pts
+			(xy 220.98 38.1) (xy 220.98 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "01c61579-6977-4c31-a0fd-b34fc672bf17")
 	)
 	(wire
 		(pts
@@ -1495,6 +1677,16 @@
 			(type default)
 		)
 		(uuid "15248ffb-d31a-4cee-ac9b-ec99d998d67c")
+	)
+	(wire
+		(pts
+			(xy 132.08 38.1) (xy 132.08 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "175c9c3f-6fbc-4928-9868-72180d4fd87b")
 	)
 	(wire
 		(pts
@@ -1738,6 +1930,16 @@
 	)
 	(wire
 		(pts
+			(xy 158.75 38.1) (xy 158.75 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "38135e3b-4a07-4781-8792-547ef4c075da")
+	)
+	(wire
+		(pts
 			(xy 101.6 78.74) (xy 110.49 78.74)
 		)
 		(stroke
@@ -1828,6 +2030,16 @@
 	)
 	(wire
 		(pts
+			(xy 44.45 96.52) (xy 53.34 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "41341da5-a68e-4574-88fe-382d34acc40b")
+	)
+	(wire
+		(pts
 			(xy 189.23 114.3) (xy 198.12 114.3)
 		)
 		(stroke
@@ -1855,6 +2067,16 @@
 			(type default)
 		)
 		(uuid "441db370-f72b-4a78-b1f0-4a6a7c512e64")
+	)
+	(wire
+		(pts
+			(xy 203.2 38.1) (xy 203.2 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "44be9613-1f91-43a3-9d7b-0b4c0f69c4e7")
 	)
 	(wire
 		(pts
@@ -1888,13 +2110,13 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 132.08) (xy 53.34 132.08)
+			(xy 149.86 38.1) (xy 149.86 50.8)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "46f0ea4e-684d-4b93-9c11-4666f0b57933")
+		(uuid "471ff4ae-1d7a-4e77-8252-8a553ffe651e")
 	)
 	(wire
 		(pts
@@ -1988,6 +2210,16 @@
 	)
 	(wire
 		(pts
+			(xy 44.45 78.74) (xy 53.34 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5075a19e-50b1-45c2-a26e-55fc8fe4a391")
+	)
+	(wire
+		(pts
 			(xy 228.6 104.14) (xy 228.6 121.92)
 		)
 		(stroke
@@ -1998,13 +2230,13 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 96.52) (xy 53.34 96.52)
+			(xy 228.6 38.1) (xy 228.6 50.8)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "520b3922-85a0-412a-af54-54c8989cb1e9")
+		(uuid "53004f25-2757-4f23-a299-356360cbcbe7")
 	)
 	(wire
 		(pts
@@ -2148,16 +2380,6 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 78.74) (xy 53.34 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "60109fd6-d496-4b5d-8a27-6c2ac5bac63f")
-	)
-	(wire
-		(pts
 			(xy 207.01 149.86) (xy 215.9 149.86)
 		)
 		(stroke
@@ -2265,6 +2487,16 @@
 			(type default)
 		)
 		(uuid "6bcca22f-a54f-40bf-8f23-48bbd659a8f8")
+	)
+	(wire
+		(pts
+			(xy 76.2 38.1) (xy 76.2 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6bd5eb9f-79e3-4275-99f2-6c33ff74f7e7")
 	)
 	(wire
 		(pts
@@ -2438,13 +2670,23 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 114.3) (xy 53.34 114.3)
+			(xy 212.09 38.1) (xy 212.09 50.8)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "7d312a43-cfc1-4808-84be-055021dde14c")
+		(uuid "7e4f2a0a-9773-4432-b3cd-61d10f971138")
+	)
+	(wire
+		(pts
+			(xy 35.56 78.74) (xy 44.45 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7f1df166-1c55-4b3c-b4c9-db0488f7e2c4")
 	)
 	(wire
 		(pts
@@ -2478,6 +2720,16 @@
 	)
 	(wire
 		(pts
+			(xy 185.42 38.1) (xy 185.42 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "84357c91-8374-455e-a925-924f71a02ed8")
+	)
+	(wire
+		(pts
 			(xy 176.53 104.14) (xy 176.53 121.92)
 		)
 		(stroke
@@ -2485,6 +2737,16 @@
 			(type default)
 		)
 		(uuid "85450416-6a91-4381-a2e1-93e8e0f14e12")
+	)
+	(wire
+		(pts
+			(xy 115.57 38.1) (xy 115.57 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "87894b7f-b0ef-4059-a80c-a523594bf961")
 	)
 	(wire
 		(pts
@@ -2515,6 +2777,16 @@
 			(type default)
 		)
 		(uuid "88e302c6-a813-4e02-a319-970d27383938")
+	)
+	(wire
+		(pts
+			(xy 35.56 149.86) (xy 44.45 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "894493c9-a926-4411-9e93-c02485faacf7")
 	)
 	(wire
 		(pts
@@ -2678,6 +2950,16 @@
 	)
 	(wire
 		(pts
+			(xy 106.68 38.1) (xy 106.68 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9e43f173-d012-482a-8d57-ef5dd74396a4")
+	)
+	(wire
+		(pts
 			(xy 198.12 78.74) (xy 207.01 78.74)
 		)
 		(stroke
@@ -2715,6 +2997,16 @@
 			(type default)
 		)
 		(uuid "a60edb8a-181d-490f-84e4-74b9681d44ae")
+	)
+	(wire
+		(pts
+			(xy 67.31 38.1) (xy 67.31 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a6869f7c-a39b-4cf7-9164-1e2958b2a342")
 	)
 	(wire
 		(pts
@@ -2838,6 +3130,26 @@
 	)
 	(wire
 		(pts
+			(xy 237.49 38.1) (xy 237.49 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b22b7a5a-c198-4ae3-87bb-c3c26e61ddd3")
+	)
+	(wire
+		(pts
+			(xy 35.56 114.3) (xy 44.45 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b2398099-175f-49d7-a97b-6ba4911f4433")
+	)
+	(wire
+		(pts
 			(xy 162.56 149.86) (xy 171.45 149.86)
 		)
 		(stroke
@@ -2868,6 +3180,16 @@
 	)
 	(wire
 		(pts
+			(xy 58.42 38.1) (xy 58.42 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b74066cb-aa9b-4cd5-8a25-e63d7ace76fe")
+	)
+	(wire
+		(pts
 			(xy 176.53 121.92) (xy 176.53 139.7)
 		)
 		(stroke
@@ -2875,6 +3197,16 @@
 			(type default)
 		)
 		(uuid "b7a80aa0-4ff8-4f7a-9da9-d30c12004ff1")
+	)
+	(wire
+		(pts
+			(xy 35.56 60.96) (xy 44.45 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b7bc3b29-9781-49b9-b5ac-6627b09888ef")
 	)
 	(wire
 		(pts
@@ -2895,6 +3227,16 @@
 			(type default)
 		)
 		(uuid "bbcf4448-6681-4fdd-8481-5d6ba572d38a")
+	)
+	(wire
+		(pts
+			(xy 35.56 132.08) (xy 44.45 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bbec47ba-eddc-464e-abbd-9b38efbbfd2a")
 	)
 	(wire
 		(pts
@@ -2925,6 +3267,26 @@
 			(type default)
 		)
 		(uuid "c0376f8e-794c-4bf3-8731-90ff64c12d4f")
+	)
+	(wire
+		(pts
+			(xy 176.53 38.1) (xy 176.53 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c0eaab5b-793e-4d6b-86e0-77711de08c00")
+	)
+	(wire
+		(pts
+			(xy 140.97 38.1) (xy 140.97 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c0faa1ad-d188-43e2-a1fb-e7b9f46a3e97")
 	)
 	(wire
 		(pts
@@ -2965,6 +3327,16 @@
 			(type default)
 		)
 		(uuid "c6280c66-3436-425a-b5aa-05461874354c")
+	)
+	(wire
+		(pts
+			(xy 44.45 114.3) (xy 53.34 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c87e2a24-3edb-43a3-a1b0-c52f2840fe46")
 	)
 	(wire
 		(pts
@@ -3015,6 +3387,16 @@
 			(type default)
 		)
 		(uuid "cede26e1-626c-4711-961f-590bf4cee36f")
+	)
+	(wire
+		(pts
+			(xy 194.31 38.1) (xy 194.31 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cef76337-3ff5-43d8-b1b2-93f8c8515e76")
 	)
 	(wire
 		(pts
@@ -3108,6 +3490,16 @@
 	)
 	(wire
 		(pts
+			(xy 49.53 38.1) (xy 49.53 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "df086f7c-561a-466e-b9c9-85e96c77cd17")
+	)
+	(wire
+		(pts
 			(xy 215.9 78.74) (xy 223.52 78.74)
 		)
 		(stroke
@@ -3198,6 +3590,16 @@
 	)
 	(wire
 		(pts
+			(xy 44.45 132.08) (xy 53.34 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e90b6ce1-5d43-447a-9b63-c334624344d8")
+	)
+	(wire
+		(pts
 			(xy 215.9 114.3) (xy 223.52 114.3)
 		)
 		(stroke
@@ -3245,6 +3647,16 @@
 			(type default)
 		)
 		(uuid "f27bb522-7100-44f7-8f11-cd8f6fd2462f")
+	)
+	(wire
+		(pts
+			(xy 35.56 96.52) (xy 44.45 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f3109a14-5ea5-43b8-9c36-a632d582e05d")
 	)
 	(wire
 		(pts
@@ -3298,6 +3710,16 @@
 	)
 	(wire
 		(pts
+			(xy 246.38 38.1) (xy 246.38 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f971118b-8388-4a62-8c50-4e69d7c6c79d")
+	)
+	(wire
+		(pts
 			(xy 189.23 96.52) (xy 198.12 96.52)
 		)
 		(stroke
@@ -3336,6 +3758,610 @@
 		)
 		(uuid "fe41f61e-0c48-476d-8840-0f1e5597b6db")
 	)
+	(wire
+		(pts
+			(xy 167.64 38.1) (xy 167.64 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ff13b45e-a6cf-4041-bb1e-4fe1ea945905")
+	)
+	(global_label "COL17"
+		(shape input)
+		(at 220.98 38.1 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "05dcbf44-8ea0-43e5-8896-19edea36a3cd")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 220.98 30.2767 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "COL6"
+		(shape input)
+		(at 115.57 38.1 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0e30a913-6710-49a9-b361-a3b410116693")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 115.57 30.2767 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "COL2"
+		(shape input)
+		(at 67.31 38.1 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1f04de2d-0ec2-4a7f-8482-484c315a0efa")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 67.31 30.2767 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ROW5"
+		(shape input)
+		(at 35.56 149.86 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2440616b-ae12-4c07-9f32-c8b224888f5b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 35.56 141.6134 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ROW1"
+		(shape input)
+		(at 35.56 78.74 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "26fd39ee-e331-4a42-bbfe-a8349aec85ac")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 35.56 70.4934 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ROW2"
+		(shape input)
+		(at 35.56 96.52 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "36e4ab88-64b2-45e1-a7d6-a1bb7d16b0f2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 35.56 88.2734 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "COL20"
+		(shape input)
+		(at 246.38 38.1 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4b077acf-c33c-429f-a54b-49e6f1aa6469")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 246.38 30.2767 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "COL11"
+		(shape input)
+		(at 167.64 38.1 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "562fe3b2-a74b-4640-99bd-5136e84fc4a7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 167.64 30.2767 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "COL10"
+		(shape input)
+		(at 158.75 38.1 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5bac7714-a6ad-42f9-b8b1-3b281e674190")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 158.75 30.2767 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "COL5"
+		(shape input)
+		(at 106.68 38.1 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6870d149-9026-4231-998c-8ece79aa054a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 106.68 30.2767 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "COL19"
+		(shape input)
+		(at 237.49 38.1 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6b3bde98-4021-4574-b94d-f4a3fd3fee6d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 237.49 30.2767 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ROW4"
+		(shape input)
+		(at 35.56 132.08 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6ddf5357-2718-4c49-ba87-e75e98ed63bb")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 35.56 123.8334 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "COL9"
+		(shape input)
+		(at 149.86 38.1 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7e078d6e-856b-4a4a-839f-981b92ec74d2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 149.86 30.2767 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "COL12"
+		(shape input)
+		(at 176.53 38.1 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "853bf641-0863-4908-ac4e-260e0eaf15bc")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 176.53 30.2767 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "COL7"
+		(shape input)
+		(at 132.08 38.1 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "89483296-dfdb-41e3-97cd-d9449c3ae134")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 132.08 30.2767 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "COL14"
+		(shape input)
+		(at 194.31 38.1 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8e0b1375-cdc1-48ac-b835-d0fb95007c6b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 194.31 30.2767 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "COL1"
+		(shape input)
+		(at 58.42 38.1 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a2490c0d-c665-4d26-88e7-ade90d0f733d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 58.42 30.2767 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "COL16"
+		(shape input)
+		(at 212.09 38.1 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a47b4a76-5022-4b93-b5e0-516b13713a97")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 212.09 30.2767 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "COL4"
+		(shape input)
+		(at 97.79 38.1 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a7eb1dd4-1211-4886-9bb5-a0dd777d5911")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 97.79 30.2767 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "COL8"
+		(shape input)
+		(at 140.97 38.1 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b9781c2e-310f-4e08-947b-f52e0c1bbcc7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 140.97 30.2767 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "COL3"
+		(shape input)
+		(at 76.2 38.1 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e019ed72-8bb6-43c4-ab16-483c11ce16c1")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 76.2 30.2767 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ROW3"
+		(shape input)
+		(at 35.56 114.3 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e0be2739-04ea-42dd-9554-0bc4f33f71ab")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 35.56 106.0534 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ROW0"
+		(shape input)
+		(at 35.56 60.96 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e94a5156-596f-4044-bc5c-0eaec0b41f0d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 35.56 52.7134 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "COL18"
+		(shape input)
+		(at 228.6 38.1 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ebfa06ad-6b6f-4801-b62f-0c21acdbf671")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 228.6 30.2767 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "COL0"
+		(shape input)
+		(at 49.53 38.1 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ee55b5c2-7a12-4c7f-bc12-ed5ef9421ba6")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 49.53 30.2767 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "COL15"
+		(shape input)
+		(at 203.2 38.1 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f5f81170-6a64-446e-b847-c843e2ad4d79")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 203.2 30.2767 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "COL13"
+		(shape input)
+		(at 185.42 38.1 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "fc01757d-f92b-4995-a483-3b72619293ee")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 185.42 30.2767 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(symbol
 		(lib_id "Device:D_Small")
 		(at 53.34 93.98 90)
@@ -3346,7 +4372,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "00e4187a-0c3a-4c3c-be89-431c4e82a80f")
-		(property "Reference" "D159"
+		(property "Reference" "D43"
 			(at 55.88 92.7099 90)
 			(effects
 				(font
@@ -3364,7 +4390,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 53.34 93.98 90)
 			(effects
 				(font
@@ -3418,7 +4444,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D159")
+					(reference "D43")
 					(unit 1)
 				)
 			)
@@ -3706,7 +4732,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "05330798-14b6-45fc-be67-f13af8fbe75f")
-		(property "Reference" "D126"
+		(property "Reference" "D10"
 			(at 147.32 57.1499 90)
 			(effects
 				(font
@@ -3724,7 +4750,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 144.78 58.42 90)
 			(effects
 				(font
@@ -3778,7 +4804,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D126")
+					(reference "D10")
 					(unit 1)
 				)
 			)
@@ -4066,7 +5092,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0f487492-0fb5-407b-aadb-ad81afb14794")
-		(property "Reference" "D177"
+		(property "Reference" "D61"
 			(at 234.95 92.7099 90)
 			(effects
 				(font
@@ -4084,7 +5110,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 232.41 93.98 90)
 			(effects
 				(font
@@ -4138,7 +5164,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D177")
+					(reference "D61")
 					(unit 1)
 				)
 			)
@@ -4154,7 +5180,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "10624337-92ce-41ac-922d-5dd94d4dded7")
-		(property "Reference" "D144"
+		(property "Reference" "D28"
 			(at 129.54 74.9299 90)
 			(effects
 				(font
@@ -4172,7 +5198,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 127 76.2 90)
 			(effects
 				(font
@@ -4226,7 +5252,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D144")
+					(reference "D28")
 					(unit 1)
 				)
 			)
@@ -4242,7 +5268,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "114e9185-3e23-4c02-9d73-a641ec205c4d")
-		(property "Reference" "D224"
+		(property "Reference" "D108"
 			(at 191.77 146.0499 90)
 			(effects
 				(font
@@ -4260,7 +5286,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 189.23 147.32 90)
 			(effects
 				(font
@@ -4314,7 +5340,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D224")
+					(reference "D108")
 					(unit 1)
 				)
 			)
@@ -4398,7 +5424,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "12f2380b-8378-497e-a671-85e2716eed54")
-		(property "Reference" "D173"
+		(property "Reference" "D57"
 			(at 200.66 92.7099 90)
 			(effects
 				(font
@@ -4416,7 +5442,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 198.12 93.98 90)
 			(effects
 				(font
@@ -4470,7 +5496,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D173")
+					(reference "D57")
 					(unit 1)
 				)
 			)
@@ -4486,7 +5512,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "13527b62-c880-4db6-a106-6bb6a41fba90")
-		(property "Reference" "D223"
+		(property "Reference" "D107"
 			(at 182.88 146.0499 90)
 			(effects
 				(font
@@ -4504,7 +5530,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 180.34 147.32 90)
 			(effects
 				(font
@@ -4558,7 +5584,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D223")
+					(reference "D107")
 					(unit 1)
 				)
 			)
@@ -4574,7 +5600,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1377b786-10e3-41f6-911a-468d51540ce0")
-		(property "Reference" "D153"
+		(property "Reference" "D37"
 			(at 209.55 74.9299 90)
 			(effects
 				(font
@@ -4592,7 +5618,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 207.01 76.2 90)
 			(effects
 				(font
@@ -4646,7 +5672,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D153")
+					(reference "D37")
 					(unit 1)
 				)
 			)
@@ -4662,7 +5688,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "13e873ec-d330-4f87-899b-33ee51f5cf31")
-		(property "Reference" "D176"
+		(property "Reference" "D60"
 			(at 226.06 92.7099 90)
 			(effects
 				(font
@@ -4680,7 +5706,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 223.52 93.98 90)
 			(effects
 				(font
@@ -4734,7 +5760,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D176")
+					(reference "D60")
 					(unit 1)
 				)
 			)
@@ -4750,7 +5776,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1571db8d-bcc4-4ba7-99e0-9ac410f8dd3a")
-		(property "Reference" "D207"
+		(property "Reference" "D91"
 			(at 191.77 128.2699 90)
 			(effects
 				(font
@@ -4768,7 +5794,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 189.23 129.54 90)
 			(effects
 				(font
@@ -4822,7 +5848,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D207")
+					(reference "D91")
 					(unit 1)
 				)
 			)
@@ -4838,7 +5864,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "15a534d8-d618-4e22-8991-05e63be2ae1e")
-		(property "Reference" "D182"
+		(property "Reference" "D66"
 			(at 129.54 110.4899 90)
 			(effects
 				(font
@@ -4856,7 +5882,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 127 111.76 90)
 			(effects
 				(font
@@ -4910,7 +5936,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D182")
+					(reference "D66")
 					(unit 1)
 				)
 			)
@@ -5062,7 +6088,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "18a82822-30b4-43b8-9917-a93ea325e9a2")
-		(property "Reference" "D194"
+		(property "Reference" "D78"
 			(at 234.95 110.4899 90)
 			(effects
 				(font
@@ -5081,7 +6107,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 232.41 111.76 90)
 			(effects
 				(font
@@ -5135,7 +6161,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D194")
+					(reference "D78")
 					(unit 1)
 				)
 			)
@@ -5219,7 +6245,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1c759284-57f4-4ba8-9c08-8b9045767bd1")
-		(property "Reference" "D150"
+		(property "Reference" "D34"
 			(at 182.88 74.9299 90)
 			(effects
 				(font
@@ -5237,7 +6263,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 180.34 76.2 90)
 			(effects
 				(font
@@ -5291,7 +6317,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D150")
+					(reference "D34")
 					(unit 1)
 				)
 			)
@@ -5511,7 +6537,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2697c993-77c1-4678-8937-d94c957ef8ea")
-		(property "Reference" "D125"
+		(property "Reference" "D9"
 			(at 138.43 57.1499 90)
 			(effects
 				(font
@@ -5529,7 +6555,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 135.89 58.42 90)
 			(effects
 				(font
@@ -5583,7 +6609,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D125")
+					(reference "D9")
 					(unit 1)
 				)
 			)
@@ -5871,7 +6897,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2aef1be3-0078-41a7-b224-c56d87837f7c")
-		(property "Reference" "D127"
+		(property "Reference" "D11"
 			(at 156.21 57.1499 90)
 			(effects
 				(font
@@ -5889,7 +6915,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 153.67 58.42 90)
 			(effects
 				(font
@@ -5943,7 +6969,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D127")
+					(reference "D11")
 					(unit 1)
 				)
 			)
@@ -5959,7 +6985,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2b20bd2b-adcc-48cc-bf14-9dee2398d470")
-		(property "Reference" "D228"
+		(property "Reference" "D112"
 			(at 226.06 146.0499 90)
 			(effects
 				(font
@@ -5977,7 +7003,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 223.52 147.32 90)
 			(effects
 				(font
@@ -6031,7 +7057,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D228")
+					(reference "D112")
 					(unit 1)
 				)
 			)
@@ -6047,7 +7073,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2b625155-8564-4bcd-8f27-954f4ca6d892")
-		(property "Reference" "D187"
+		(property "Reference" "D71"
 			(at 173.99 110.4899 90)
 			(effects
 				(font
@@ -6065,7 +7091,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 171.45 111.76 90)
 			(effects
 				(font
@@ -6119,7 +7145,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D187")
+					(reference "D71")
 					(unit 1)
 				)
 			)
@@ -6475,7 +7501,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2db244f8-72bb-401a-a483-fd37d24b22d5")
-		(property "Reference" "D145"
+		(property "Reference" "D29"
 			(at 138.43 74.9299 90)
 			(effects
 				(font
@@ -6493,7 +7519,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 135.89 76.2 90)
 			(effects
 				(font
@@ -6547,7 +7573,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D145")
+					(reference "D29")
 					(unit 1)
 				)
 			)
@@ -6631,7 +7657,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "30697b71-f53d-40d1-9303-1b09cbebc7e8")
-		(property "Reference" "D123"
+		(property "Reference" "D7"
 			(at 113.03 57.1499 90)
 			(effects
 				(font
@@ -6649,7 +7675,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 110.49 58.42 90)
 			(effects
 				(font
@@ -6703,7 +7729,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D123")
+					(reference "D7")
 					(unit 1)
 				)
 			)
@@ -6719,7 +7745,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "30fe0e8b-902a-476a-b522-fb0f1901ae88")
-		(property "Reference" "D155"
+		(property "Reference" "D39"
 			(at 226.06 74.9299 90)
 			(effects
 				(font
@@ -6737,7 +7763,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 223.52 76.2 90)
 			(effects
 				(font
@@ -6791,7 +7817,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D155")
+					(reference "D39")
 					(unit 1)
 				)
 			)
@@ -6807,7 +7833,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3132ba81-2c4b-473c-a9f4-f363b970b5f6")
-		(property "Reference" "D163"
+		(property "Reference" "D47"
 			(at 104.14 92.7099 90)
 			(effects
 				(font
@@ -6825,7 +7851,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 101.6 93.98 90)
 			(effects
 				(font
@@ -6879,7 +7905,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D163")
+					(reference "D47")
 					(unit 1)
 				)
 			)
@@ -6895,7 +7921,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "31c76e68-07ca-4b53-8ea5-5e73325954c1")
-		(property "Reference" "D210"
+		(property "Reference" "D94"
 			(at 218.44 128.2699 90)
 			(effects
 				(font
@@ -6913,7 +7939,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 215.9 129.54 90)
 			(effects
 				(font
@@ -6967,7 +7993,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D210")
+					(reference "D94")
 					(unit 1)
 				)
 			)
@@ -6983,7 +8009,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3598906c-aff2-4c4e-9be5-b7f5038d0bff")
-		(property "Reference" "D142"
+		(property "Reference" "D26"
 			(at 104.14 74.9299 90)
 			(effects
 				(font
@@ -7001,7 +8027,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 101.6 76.2 90)
 			(effects
 				(font
@@ -7055,7 +8081,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D142")
+					(reference "D26")
 					(unit 1)
 				)
 			)
@@ -7275,7 +8301,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3bc8892f-716d-458c-ac0e-9bf445349f11")
-		(property "Reference" "D165"
+		(property "Reference" "D49"
 			(at 129.54 92.7099 90)
 			(effects
 				(font
@@ -7293,7 +8319,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 127 93.98 90)
 			(effects
 				(font
@@ -7347,7 +8373,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D165")
+					(reference "D49")
 					(unit 1)
 				)
 			)
@@ -7498,7 +8524,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "427136e8-4dc3-43f1-8d7b-7d59a961230c")
-		(property "Reference" "D120"
+		(property "Reference" "D4"
 			(at 73.66 57.1499 90)
 			(effects
 				(font
@@ -7516,7 +8542,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 71.12 58.42 90)
 			(effects
 				(font
@@ -7570,7 +8596,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D120")
+					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -7586,7 +8612,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "44c6b05b-7e13-40ba-9a92-e727761092cc")
-		(property "Reference" "D166"
+		(property "Reference" "D50"
 			(at 138.43 92.7099 90)
 			(effects
 				(font
@@ -7604,7 +8630,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 135.89 93.98 90)
 			(effects
 				(font
@@ -7658,7 +8684,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D166")
+					(reference "D50")
 					(unit 1)
 				)
 			)
@@ -7741,7 +8767,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "478d1a64-fb22-46bc-9f8d-edbd1f1c3cdf")
-		(property "Reference" "D140"
+		(property "Reference" "D24"
 			(at 73.66 74.9299 90)
 			(effects
 				(font
@@ -7759,7 +8785,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 71.12 76.2 90)
 			(effects
 				(font
@@ -7813,7 +8839,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D140")
+					(reference "D24")
 					(unit 1)
 				)
 			)
@@ -7829,7 +8855,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4790c8f7-2f03-43cd-b3b4-e18544beef6d")
-		(property "Reference" "D143"
+		(property "Reference" "D27"
 			(at 113.03 74.9299 90)
 			(effects
 				(font
@@ -7847,7 +8873,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 110.49 76.2 90)
 			(effects
 				(font
@@ -7901,7 +8927,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D143")
+					(reference "D27")
 					(unit 1)
 				)
 			)
@@ -7917,7 +8943,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "47f92ed3-d94e-42f1-bdc2-306e1056c9ce")
-		(property "Reference" "D146"
+		(property "Reference" "D30"
 			(at 147.32 74.9299 90)
 			(effects
 				(font
@@ -7935,7 +8961,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 144.78 76.2 90)
 			(effects
 				(font
@@ -7989,7 +9015,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D146")
+					(reference "D30")
 					(unit 1)
 				)
 			)
@@ -8073,7 +9099,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4a8dddf7-2d94-4ddd-a4ba-780117fcfac8")
-		(property "Reference" "D157"
+		(property "Reference" "D41"
 			(at 243.84 74.9299 90)
 			(effects
 				(font
@@ -8091,7 +9117,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 241.3 76.2 90)
 			(effects
 				(font
@@ -8145,7 +9171,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D157")
+					(reference "D41")
 					(unit 1)
 				)
 			)
@@ -8161,7 +9187,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4c8ee845-5f86-46e2-a063-aab79439a97e")
-		(property "Reference" "D199"
+		(property "Reference" "D83"
 			(at 104.14 128.2699 90)
 			(effects
 				(font
@@ -8179,7 +9205,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 101.6 129.54 90)
 			(effects
 				(font
@@ -8233,7 +9259,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D199")
+					(reference "D83")
 					(unit 1)
 				)
 			)
@@ -8385,7 +9411,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "502b507f-9410-45af-a414-65d38cbad6cc")
-		(property "Reference" "D156"
+		(property "Reference" "D40"
 			(at 234.95 74.9299 90)
 			(effects
 				(font
@@ -8403,7 +9429,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 232.41 76.2 90)
 			(effects
 				(font
@@ -8457,7 +9483,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D156")
+					(reference "D40")
 					(unit 1)
 				)
 			)
@@ -8541,7 +9567,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5523aba8-883e-43e1-a702-0b63fcaeda17")
-		(property "Reference" "D149"
+		(property "Reference" "D33"
 			(at 173.99 74.9299 90)
 			(effects
 				(font
@@ -8559,7 +9585,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 171.45 76.2 90)
 			(effects
 				(font
@@ -8613,7 +9639,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D149")
+					(reference "D33")
 					(unit 1)
 				)
 			)
@@ -8765,7 +9791,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5a07398b-11cd-4985-bcbc-3582a5af18b6")
-		(property "Reference" "D117"
+		(property "Reference" "D1"
 			(at 46.99 57.1499 90)
 			(effects
 				(font
@@ -8783,7 +9809,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 44.45 58.42 90)
 			(effects
 				(font
@@ -8837,7 +9863,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D117")
+					(reference "D1")
 					(unit 1)
 				)
 			)
@@ -8853,7 +9879,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5bd28a0c-88e2-4849-8e92-978c4027ffea")
-		(property "Reference" "D147"
+		(property "Reference" "D31"
 			(at 156.21 74.9299 90)
 			(effects
 				(font
@@ -8871,7 +9897,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 153.67 76.2 90)
 			(effects
 				(font
@@ -8925,7 +9951,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D147")
+					(reference "D31")
 					(unit 1)
 				)
 			)
@@ -8941,7 +9967,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5be9ebc7-ca0c-4c3e-9b48-87f45a83af44")
-		(property "Reference" "D129"
+		(property "Reference" "D13"
 			(at 173.99 57.1499 90)
 			(effects
 				(font
@@ -8959,7 +9985,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 171.45 58.42 90)
 			(effects
 				(font
@@ -9013,7 +10039,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D129")
+					(reference "D13")
 					(unit 1)
 				)
 			)
@@ -9097,7 +10123,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6046c545-86f0-4b3d-b466-3287bfa55fba")
-		(property "Reference" "D220"
+		(property "Reference" "D104"
 			(at 156.21 146.0499 90)
 			(effects
 				(font
@@ -9115,7 +10141,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 153.67 147.32 90)
 			(effects
 				(font
@@ -9169,7 +10195,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D220")
+					(reference "D104")
 					(unit 1)
 				)
 			)
@@ -9185,7 +10211,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "627c56e6-72f1-4050-842b-4beb321019fb")
-		(property "Reference" "D175"
+		(property "Reference" "D59"
 			(at 218.44 92.7099 90)
 			(effects
 				(font
@@ -9203,7 +10229,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 215.9 93.98 90)
 			(effects
 				(font
@@ -9257,7 +10283,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D175")
+					(reference "D59")
 					(unit 1)
 				)
 			)
@@ -9545,7 +10571,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "67cddf98-91eb-4343-9f42-acff207a3311")
-		(property "Reference" "D192"
+		(property "Reference" "D76"
 			(at 218.44 110.4899 90)
 			(effects
 				(font
@@ -9563,7 +10589,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 215.9 111.76 90)
 			(effects
 				(font
@@ -9617,7 +10643,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D192")
+					(reference "D76")
 					(unit 1)
 				)
 			)
@@ -9633,7 +10659,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6977c49c-85c5-4bb1-8fc5-46cefccd5773")
-		(property "Reference" "D141"
+		(property "Reference" "D25"
 			(at 95.25 74.9299 90)
 			(effects
 				(font
@@ -9651,7 +10677,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 92.71 76.2 90)
 			(effects
 				(font
@@ -9705,7 +10731,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D141")
+					(reference "D25")
 					(unit 1)
 				)
 			)
@@ -9721,7 +10747,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6b377642-22d2-43a9-a943-94faa7a501d7")
-		(property "Reference" "D152"
+		(property "Reference" "D36"
 			(at 200.66 74.9299 90)
 			(effects
 				(font
@@ -9739,7 +10765,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 198.12 76.2 90)
 			(effects
 				(font
@@ -9793,7 +10819,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D152")
+					(reference "D36")
 					(unit 1)
 				)
 			)
@@ -9809,7 +10835,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6be62067-3f2a-40a0-b9db-258c2dcc20a1")
-		(property "Reference" "D203"
+		(property "Reference" "D87"
 			(at 156.21 128.2699 90)
 			(effects
 				(font
@@ -9827,7 +10853,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 153.67 129.54 90)
 			(effects
 				(font
@@ -9881,7 +10907,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D203")
+					(reference "D87")
 					(unit 1)
 				)
 			)
@@ -9965,7 +10991,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6f96a9fb-545b-4eca-951f-584d53e6c853")
-		(property "Reference" "D134"
+		(property "Reference" "D18"
 			(at 218.44 57.1499 90)
 			(effects
 				(font
@@ -9983,7 +11009,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 215.9 58.42 90)
 			(effects
 				(font
@@ -10037,7 +11063,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D134")
+					(reference "D18")
 					(unit 1)
 				)
 			)
@@ -10121,7 +11147,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7368315f-bad5-42fb-a824-53c5b13f77de")
-		(property "Reference" "D221"
+		(property "Reference" "D105"
 			(at 165.1 146.0499 90)
 			(effects
 				(font
@@ -10139,7 +11165,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 162.56 147.32 90)
 			(effects
 				(font
@@ -10193,7 +11219,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D221")
+					(reference "D105")
 					(unit 1)
 				)
 			)
@@ -10277,7 +11303,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "74cc9727-cbfe-4b8b-a073-0107b6034404")
-		(property "Reference" "D133"
+		(property "Reference" "D17"
 			(at 209.55 57.1499 90)
 			(effects
 				(font
@@ -10295,7 +11321,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 207.01 58.42 90)
 			(effects
 				(font
@@ -10349,7 +11375,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D133")
+					(reference "D17")
 					(unit 1)
 				)
 			)
@@ -11045,7 +12071,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "81783100-cfba-4721-aeb6-f3d97afd6650")
-		(property "Reference" "D212"
+		(property "Reference" "D96"
 			(at 46.99 146.0499 90)
 			(effects
 				(font
@@ -11065,7 +12091,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 44.45 147.32 90)
 			(effects
 				(font
@@ -11119,7 +12145,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D212")
+					(reference "D96")
 					(unit 1)
 				)
 			)
@@ -11271,7 +12297,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "83dbe341-5697-431d-9f45-f228f6ceb6f1")
-		(property "Reference" "D132"
+		(property "Reference" "D16"
 			(at 200.66 57.1499 90)
 			(effects
 				(font
@@ -11289,7 +12315,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 198.12 58.42 90)
 			(effects
 				(font
@@ -11343,7 +12369,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D132")
+					(reference "D16")
 					(unit 1)
 				)
 			)
@@ -11359,7 +12385,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "83f92a80-372c-4ac9-ac9b-1260f7812065")
-		(property "Reference" "D202"
+		(property "Reference" "D86"
 			(at 147.32 128.2699 90)
 			(effects
 				(font
@@ -11377,7 +12403,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 144.78 129.54 90)
 			(effects
 				(font
@@ -11431,7 +12457,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D202")
+					(reference "D86")
 					(unit 1)
 				)
 			)
@@ -11651,7 +12677,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "87b73a94-8510-4f6c-94d3-ca212ffbacf6")
-		(property "Reference" "D119"
+		(property "Reference" "D3"
 			(at 64.77 57.1499 90)
 			(effects
 				(font
@@ -11669,7 +12695,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 62.23 58.42 90)
 			(effects
 				(font
@@ -11723,7 +12749,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D119")
+					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -11739,7 +12765,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8977c182-0e7d-4efc-a157-b2863736c682")
-		(property "Reference" "D225"
+		(property "Reference" "D109"
 			(at 200.66 146.0499 90)
 			(effects
 				(font
@@ -11757,7 +12783,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 198.12 147.32 90)
 			(effects
 				(font
@@ -11811,7 +12837,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D225")
+					(reference "D109")
 					(unit 1)
 				)
 			)
@@ -11827,7 +12853,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8a1e1c18-3743-42d9-a2b6-4d2ee677aaa6")
-		(property "Reference" "D158"
+		(property "Reference" "D42"
 			(at 46.99 92.7099 90)
 			(effects
 				(font
@@ -11845,7 +12871,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 44.45 93.98 90)
 			(effects
 				(font
@@ -11899,7 +12925,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D158")
+					(reference "D42")
 					(unit 1)
 				)
 			)
@@ -11915,7 +12941,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8a46a87a-d843-4923-a6c4-50af60153c19")
-		(property "Reference" "D121"
+		(property "Reference" "D5"
 			(at 95.25 57.1499 90)
 			(effects
 				(font
@@ -11933,7 +12959,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 92.71 58.42 90)
 			(effects
 				(font
@@ -11987,7 +13013,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D121")
+					(reference "D5")
 					(unit 1)
 				)
 			)
@@ -12003,7 +13029,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8ca41670-c48f-4a5a-b3d8-e37518db4868")
-		(property "Reference" "D160"
+		(property "Reference" "D44"
 			(at 64.77 92.7099 90)
 			(effects
 				(font
@@ -12021,7 +13047,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 62.23 93.98 90)
 			(effects
 				(font
@@ -12075,7 +13101,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D160")
+					(reference "D44")
 					(unit 1)
 				)
 			)
@@ -12363,7 +13389,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9435e921-b92b-4c15-afb4-93f5d2b8f88c")
-		(property "Reference" "D130"
+		(property "Reference" "D14"
 			(at 182.88 57.1499 90)
 			(effects
 				(font
@@ -12381,7 +13407,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 180.34 58.42 90)
 			(effects
 				(font
@@ -12435,7 +13461,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D130")
+					(reference "D14")
 					(unit 1)
 				)
 			)
@@ -12519,7 +13545,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "97a996a0-8d1e-4f7d-ae30-aeeb8754ce28")
-		(property "Reference" "D162"
+		(property "Reference" "D46"
 			(at 95.25 92.7099 90)
 			(effects
 				(font
@@ -12537,7 +13563,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 92.71 93.98 90)
 			(effects
 				(font
@@ -12591,7 +13617,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D162")
+					(reference "D46")
 					(unit 1)
 				)
 			)
@@ -12743,7 +13769,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9b8ea46e-6df9-41d0-83f3-396354b04486")
-		(property "Reference" "D181"
+		(property "Reference" "D65"
 			(at 64.77 110.4899 90)
 			(effects
 				(font
@@ -12761,7 +13787,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 62.23 111.76 90)
 			(effects
 				(font
@@ -12815,7 +13841,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D181")
+					(reference "D65")
 					(unit 1)
 				)
 			)
@@ -12967,7 +13993,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9d6e0ca2-7ce7-4b7e-bace-3cf2072f311e")
-		(property "Reference" "D170"
+		(property "Reference" "D54"
 			(at 173.99 92.7099 90)
 			(effects
 				(font
@@ -12985,7 +14011,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 171.45 93.98 90)
 			(effects
 				(font
@@ -13039,7 +14065,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D170")
+					(reference "D54")
 					(unit 1)
 				)
 			)
@@ -13055,7 +14081,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9e92ec97-2dab-4b3c-a4f0-ff1fe7c02b89")
-		(property "Reference" "D154"
+		(property "Reference" "D38"
 			(at 218.44 74.9299 90)
 			(effects
 				(font
@@ -13073,7 +14099,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 215.9 76.2 90)
 			(effects
 				(font
@@ -13127,7 +14153,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D154")
+					(reference "D38")
 					(unit 1)
 				)
 			)
@@ -13143,7 +14169,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9e9f5c43-2585-461c-98cf-dba877571968")
-		(property "Reference" "D226"
+		(property "Reference" "D110"
 			(at 209.55 146.0499 90)
 			(effects
 				(font
@@ -13161,7 +14187,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 207.01 147.32 90)
 			(effects
 				(font
@@ -13215,7 +14241,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D226")
+					(reference "D110")
 					(unit 1)
 				)
 			)
@@ -13367,7 +14393,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a160ccd2-8a35-4ad3-80ca-eb0bed691151")
-		(property "Reference" "D137"
+		(property "Reference" "D21"
 			(at 46.99 74.9299 90)
 			(effects
 				(font
@@ -13385,7 +14411,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 44.45 76.2 90)
 			(effects
 				(font
@@ -13439,7 +14465,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D137")
+					(reference "D21")
 					(unit 1)
 				)
 			)
@@ -13523,7 +14549,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a245f3aa-01f5-409e-bf89-ff5eb1707ffd")
-		(property "Reference" "D139"
+		(property "Reference" "D23"
 			(at 64.77 74.9299 90)
 			(effects
 				(font
@@ -13541,7 +14567,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 62.23 76.2 90)
 			(effects
 				(font
@@ -13595,7 +14621,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D139")
+					(reference "D23")
 					(unit 1)
 				)
 			)
@@ -13679,7 +14705,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a3408dcb-ee9c-465a-9e27-d9b751d59882")
-		(property "Reference" "D211"
+		(property "Reference" "D95"
 			(at 226.06 128.2699 90)
 			(effects
 				(font
@@ -13699,7 +14725,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 223.52 129.54 90)
 			(effects
 				(font
@@ -13753,7 +14779,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D211")
+					(reference "D95")
 					(unit 1)
 				)
 			)
@@ -13769,7 +14795,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a4e8159d-3091-4e4c-a7ce-699bfe11132d")
-		(property "Reference" "D168"
+		(property "Reference" "D52"
 			(at 156.21 92.7099 90)
 			(effects
 				(font
@@ -13787,7 +14813,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 153.67 93.98 90)
 			(effects
 				(font
@@ -13841,7 +14867,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D168")
+					(reference "D52")
 					(unit 1)
 				)
 			)
@@ -13925,7 +14951,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a5f038e2-d612-4302-93b2-8110d61e70be")
-		(property "Reference" "D216"
+		(property "Reference" "D100"
 			(at 113.03 146.0499 90)
 			(effects
 				(font
@@ -13943,7 +14969,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 110.49 147.32 90)
 			(effects
 				(font
@@ -13997,7 +15023,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D216")
+					(reference "D100")
 					(unit 1)
 				)
 			)
@@ -14013,7 +15039,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a6370b61-05a3-4745-b3a2-a8cc19b67b04")
-		(property "Reference" "D180"
+		(property "Reference" "D64"
 			(at 55.88 110.4899 90)
 			(effects
 				(font
@@ -14031,7 +15057,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 53.34 111.76 90)
 			(effects
 				(font
@@ -14085,7 +15111,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D180")
+					(reference "D64")
 					(unit 1)
 				)
 			)
@@ -14101,7 +15127,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a9532ff4-e19c-4e13-aa2b-c8a87680c2d2")
-		(property "Reference" "D229"
+		(property "Reference" "D113"
 			(at 234.95 146.0499 90)
 			(effects
 				(font
@@ -14120,7 +15146,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 232.41 147.32 90)
 			(effects
 				(font
@@ -14174,7 +15200,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D229")
+					(reference "D113")
 					(unit 1)
 				)
 			)
@@ -14190,7 +15216,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a9729e9d-35e5-45f1-ad3f-26e0fa9dd579")
-		(property "Reference" "D135"
+		(property "Reference" "D19"
 			(at 226.06 57.1499 90)
 			(effects
 				(font
@@ -14208,7 +15234,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 223.52 58.42 90)
 			(effects
 				(font
@@ -14262,7 +15288,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D135")
+					(reference "D19")
 					(unit 1)
 				)
 			)
@@ -14278,7 +15304,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ab106459-9f63-4a72-abac-520078a649de")
-		(property "Reference" "D217"
+		(property "Reference" "D101"
 			(at 129.54 146.0499 90)
 			(effects
 				(font
@@ -14296,7 +15322,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 127 147.32 90)
 			(effects
 				(font
@@ -14350,7 +15376,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D217")
+					(reference "D101")
 					(unit 1)
 				)
 			)
@@ -14366,7 +15392,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ac3a4304-599a-4fed-9cde-a103943b05fb")
-		(property "Reference" "D189"
+		(property "Reference" "D73"
 			(at 191.77 110.4899 90)
 			(effects
 				(font
@@ -14384,7 +15410,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 189.23 111.76 90)
 			(effects
 				(font
@@ -14438,7 +15464,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D189")
+					(reference "D73")
 					(unit 1)
 				)
 			)
@@ -14454,7 +15480,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ac57c59a-cb0c-4171-85a3-06a5c18a466a")
-		(property "Reference" "D204"
+		(property "Reference" "D88"
 			(at 165.1 128.2699 90)
 			(effects
 				(font
@@ -14472,7 +15498,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 162.56 129.54 90)
 			(effects
 				(font
@@ -14526,7 +15552,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D204")
+					(reference "D88")
 					(unit 1)
 				)
 			)
@@ -14678,7 +15704,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b4187ca3-2e11-4587-a64f-7692029b1dc6")
-		(property "Reference" "D196"
+		(property "Reference" "D80"
 			(at 55.88 128.2699 90)
 			(effects
 				(font
@@ -14696,7 +15722,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 53.34 129.54 90)
 			(effects
 				(font
@@ -14750,7 +15776,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D196")
+					(reference "D80")
 					(unit 1)
 				)
 			)
@@ -14766,7 +15792,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b510a83d-548b-41fb-a16a-8bd8b6ec06f3")
-		(property "Reference" "D151"
+		(property "Reference" "D35"
 			(at 191.77 74.9299 90)
 			(effects
 				(font
@@ -14784,7 +15810,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 189.23 76.2 90)
 			(effects
 				(font
@@ -14838,7 +15864,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D151")
+					(reference "D35")
 					(unit 1)
 				)
 			)
@@ -14854,7 +15880,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b5def38d-2af3-4024-8f96-45f8962857e8")
-		(property "Reference" "D169"
+		(property "Reference" "D53"
 			(at 165.1 92.7099 90)
 			(effects
 				(font
@@ -14872,7 +15898,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 162.56 93.98 90)
 			(effects
 				(font
@@ -14926,7 +15952,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D169")
+					(reference "D53")
 					(unit 1)
 				)
 			)
@@ -14942,7 +15968,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b71ab78c-3c6c-44a9-81d4-0a08b0363edd")
-		(property "Reference" "D167"
+		(property "Reference" "D51"
 			(at 147.32 92.7099 90)
 			(effects
 				(font
@@ -14960,7 +15986,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 144.78 93.98 90)
 			(effects
 				(font
@@ -15014,7 +16040,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D167")
+					(reference "D51")
 					(unit 1)
 				)
 			)
@@ -15097,7 +16123,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b961e5f7-6fe9-4c23-bbe2-c4a69cfc7dba")
-		(property "Reference" "D198"
+		(property "Reference" "D82"
 			(at 73.66 128.2699 90)
 			(effects
 				(font
@@ -15115,7 +16141,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 71.12 129.54 90)
 			(effects
 				(font
@@ -15169,7 +16195,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D198")
+					(reference "D82")
 					(unit 1)
 				)
 			)
@@ -15321,7 +16347,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "baa1841f-56fa-4a50-b613-9f61466d0f9e")
-		(property "Reference" "D164"
+		(property "Reference" "D48"
 			(at 113.03 92.7099 90)
 			(effects
 				(font
@@ -15339,7 +16365,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 110.49 93.98 90)
 			(effects
 				(font
@@ -15393,7 +16419,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D164")
+					(reference "D48")
 					(unit 1)
 				)
 			)
@@ -15613,7 +16639,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bfd4ce78-3a94-47b5-81d4-544af857bb60")
-		(property "Reference" "D184"
+		(property "Reference" "D68"
 			(at 147.32 110.4899 90)
 			(effects
 				(font
@@ -15631,7 +16657,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 144.78 111.76 90)
 			(effects
 				(font
@@ -15685,7 +16711,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D184")
+					(reference "D68")
 					(unit 1)
 				)
 			)
@@ -15769,7 +16795,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c285caba-d5d3-4732-8e88-108dfaf158f8")
-		(property "Reference" "D188"
+		(property "Reference" "D72"
 			(at 182.88 110.4899 90)
 			(effects
 				(font
@@ -15787,7 +16813,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 180.34 111.76 90)
 			(effects
 				(font
@@ -15841,7 +16867,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D188")
+					(reference "D72")
 					(unit 1)
 				)
 			)
@@ -15857,7 +16883,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c3b02017-c473-4a83-b61d-85355fdee97e")
-		(property "Reference" "D209"
+		(property "Reference" "D93"
 			(at 209.55 128.2699 90)
 			(effects
 				(font
@@ -15875,7 +16901,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 207.01 129.54 90)
 			(effects
 				(font
@@ -15929,7 +16955,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D209")
+					(reference "D93")
 					(unit 1)
 				)
 			)
@@ -16013,7 +17039,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c6b7436a-8880-4259-9dd1-3075c462e474")
-		(property "Reference" "D214"
+		(property "Reference" "D98"
 			(at 95.25 146.0499 90)
 			(effects
 				(font
@@ -16031,7 +17057,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 92.71 147.32 90)
 			(effects
 				(font
@@ -16085,7 +17111,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D214")
+					(reference "D98")
 					(unit 1)
 				)
 			)
@@ -16101,7 +17127,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c7cec856-dee9-40b3-9884-73b675fb5c94")
-		(property "Reference" "D122"
+		(property "Reference" "D6"
 			(at 104.14 57.1499 90)
 			(effects
 				(font
@@ -16119,7 +17145,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 101.6 58.42 90)
 			(effects
 				(font
@@ -16173,7 +17199,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D122")
+					(reference "D6")
 					(unit 1)
 				)
 			)
@@ -16189,7 +17215,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c7e6e6e3-1c75-4dba-af28-8dc014fd0850")
-		(property "Reference" "D136"
+		(property "Reference" "D20"
 			(at 234.95 57.1499 90)
 			(effects
 				(font
@@ -16207,7 +17233,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 232.41 58.42 90)
 			(effects
 				(font
@@ -16261,7 +17287,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D136")
+					(reference "D20")
 					(unit 1)
 				)
 			)
@@ -16345,7 +17371,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c9b3f888-206e-4afc-bf40-640123d04405")
-		(property "Reference" "D118"
+		(property "Reference" "D2"
 			(at 55.88 57.1499 90)
 			(effects
 				(font
@@ -16363,7 +17389,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 53.34 58.42 90)
 			(effects
 				(font
@@ -16417,7 +17443,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D118")
+					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -16433,7 +17459,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ca168767-7b22-452d-a727-cfb8d6a4640f")
-		(property "Reference" "D222"
+		(property "Reference" "D106"
 			(at 173.99 146.0499 90)
 			(effects
 				(font
@@ -16451,7 +17477,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 171.45 147.32 90)
 			(effects
 				(font
@@ -16505,7 +17531,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D222")
+					(reference "D106")
 					(unit 1)
 				)
 			)
@@ -16521,7 +17547,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ca1700b4-7985-4f3b-b9cf-2eaf138078fd")
-		(property "Reference" "D227"
+		(property "Reference" "D111"
 			(at 218.44 146.0499 90)
 			(effects
 				(font
@@ -16539,7 +17565,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 215.9 147.32 90)
 			(effects
 				(font
@@ -16593,7 +17619,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D227")
+					(reference "D111")
 					(unit 1)
 				)
 			)
@@ -16608,7 +17634,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ca2c354d-b304-4a62-87b7-0772bb080a59")
-		(property "Reference" "D161"
+		(property "Reference" "D45"
 			(at 73.66 92.7099 90)
 			(effects
 				(font
@@ -16626,7 +17652,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 71.12 93.98 90)
 			(effects
 				(font
@@ -16680,7 +17706,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D161")
+					(reference "D45")
 					(unit 1)
 				)
 			)
@@ -16832,7 +17858,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cc17b29b-f9ec-495e-a209-a3ddd5190b41")
-		(property "Reference" "D201"
+		(property "Reference" "D85"
 			(at 138.43 128.2699 90)
 			(effects
 				(font
@@ -16850,7 +17876,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 135.89 129.54 90)
 			(effects
 				(font
@@ -16904,7 +17930,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D201")
+					(reference "D85")
 					(unit 1)
 				)
 			)
@@ -16920,7 +17946,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cd3bdcca-17ae-471c-afed-7cf422d36b2a")
-		(property "Reference" "D174"
+		(property "Reference" "D58"
 			(at 209.55 92.7099 90)
 			(effects
 				(font
@@ -16938,7 +17964,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 207.01 93.98 90)
 			(effects
 				(font
@@ -16992,7 +18018,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D174")
+					(reference "D58")
 					(unit 1)
 				)
 			)
@@ -17008,7 +18034,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cdd3ba72-588e-4fd4-915e-a418467f0082")
-		(property "Reference" "D197"
+		(property "Reference" "D81"
 			(at 64.77 128.2699 90)
 			(effects
 				(font
@@ -17026,7 +18052,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 62.23 129.54 90)
 			(effects
 				(font
@@ -17080,7 +18106,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D197")
+					(reference "D81")
 					(unit 1)
 				)
 			)
@@ -17164,7 +18190,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ce557c29-1d8f-4e58-bc53-b51170ec6e2e")
-		(property "Reference" "D178"
+		(property "Reference" "D62"
 			(at 243.84 92.7099 90)
 			(effects
 				(font
@@ -17182,7 +18208,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 241.3 93.98 90)
 			(effects
 				(font
@@ -17236,7 +18262,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D178")
+					(reference "D62")
 					(unit 1)
 				)
 			)
@@ -17456,7 +18482,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d2e5c6cf-3ee8-4ee8-bfef-1729ba8ee8a6")
-		(property "Reference" "D200"
+		(property "Reference" "D84"
 			(at 129.54 128.2699 90)
 			(effects
 				(font
@@ -17474,7 +18500,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 127 129.54 90)
 			(effects
 				(font
@@ -17528,7 +18554,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D200")
+					(reference "D84")
 					(unit 1)
 				)
 			)
@@ -17544,7 +18570,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d4504c4f-cc0d-4376-bab3-fe6b0261da5b")
-		(property "Reference" "D208"
+		(property "Reference" "D92"
 			(at 200.66 128.2699 90)
 			(effects
 				(font
@@ -17562,7 +18588,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 198.12 129.54 90)
 			(effects
 				(font
@@ -17616,7 +18642,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D208")
+					(reference "D92")
 					(unit 1)
 				)
 			)
@@ -17632,7 +18658,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d4584095-4b91-4f5d-99c4-2eb8931a7eb3")
-		(property "Reference" "D205"
+		(property "Reference" "D89"
 			(at 173.99 128.2699 90)
 			(effects
 				(font
@@ -17650,7 +18676,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 171.45 129.54 90)
 			(effects
 				(font
@@ -17704,7 +18730,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D205")
+					(reference "D89")
 					(unit 1)
 				)
 			)
@@ -17856,7 +18882,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d9b4ae43-e67b-484a-bc50-2edd082310a2")
-		(property "Reference" "D213"
+		(property "Reference" "D97"
 			(at 64.77 146.0499 90)
 			(effects
 				(font
@@ -17874,7 +18900,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 62.23 147.32 90)
 			(effects
 				(font
@@ -17928,7 +18954,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D213")
+					(reference "D97")
 					(unit 1)
 				)
 			)
@@ -18148,7 +19174,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ddc558eb-987c-49b5-ba73-7c6a8eae7524")
-		(property "Reference" "D218"
+		(property "Reference" "D102"
 			(at 138.43 146.0499 90)
 			(effects
 				(font
@@ -18166,7 +19192,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 135.89 147.32 90)
 			(effects
 				(font
@@ -18220,7 +19246,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D218")
+					(reference "D102")
 					(unit 1)
 				)
 			)
@@ -18236,7 +19262,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "de1c4b3e-a902-448a-bcbc-dba7fb77692a")
-		(property "Reference" "D193"
+		(property "Reference" "D77"
 			(at 226.06 110.4899 90)
 			(effects
 				(font
@@ -18254,7 +19280,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 223.52 111.76 90)
 			(effects
 				(font
@@ -18308,7 +19334,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D193")
+					(reference "D77")
 					(unit 1)
 				)
 			)
@@ -18596,7 +19622,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e23ade7e-ec0d-42b2-be43-151ed685b906")
-		(property "Reference" "D171"
+		(property "Reference" "D55"
 			(at 182.88 92.7099 90)
 			(effects
 				(font
@@ -18614,7 +19640,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 180.34 93.98 90)
 			(effects
 				(font
@@ -18668,7 +19694,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D171")
+					(reference "D55")
 					(unit 1)
 				)
 			)
@@ -18684,7 +19710,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e270260a-6ef3-4710-8a53-62a376b40cdf")
-		(property "Reference" "D190"
+		(property "Reference" "D74"
 			(at 200.66 110.4899 90)
 			(effects
 				(font
@@ -18702,7 +19728,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 198.12 111.76 90)
 			(effects
 				(font
@@ -18756,7 +19782,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D190")
+					(reference "D74")
 					(unit 1)
 				)
 			)
@@ -18772,7 +19798,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e27ba824-0758-4e1e-b84c-921b18518c5d")
-		(property "Reference" "D148"
+		(property "Reference" "D32"
 			(at 165.1 74.9299 90)
 			(effects
 				(font
@@ -18790,7 +19816,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 162.56 76.2 90)
 			(effects
 				(font
@@ -18844,7 +19870,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D148")
+					(reference "D32")
 					(unit 1)
 				)
 			)
@@ -18928,7 +19954,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e5769281-1ff9-47b9-bff0-db269408c2b5")
-		(property "Reference" "D128"
+		(property "Reference" "D12"
 			(at 165.1 57.1499 90)
 			(effects
 				(font
@@ -18946,7 +19972,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 162.56 58.42 90)
 			(effects
 				(font
@@ -19000,7 +20026,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D128")
+					(reference "D12")
 					(unit 1)
 				)
 			)
@@ -19016,7 +20042,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e6c330a4-91af-47c0-8555-e92362b73d8c")
-		(property "Reference" "D179"
+		(property "Reference" "D63"
 			(at 46.99 110.4899 90)
 			(effects
 				(font
@@ -19034,7 +20060,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 44.45 111.76 90)
 			(effects
 				(font
@@ -19088,7 +20114,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D179")
+					(reference "D63")
 					(unit 1)
 				)
 			)
@@ -19104,7 +20130,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e7683b1c-36dc-476d-9aee-07018efc16bb")
-		(property "Reference" "D206"
+		(property "Reference" "D90"
 			(at 182.88 128.2699 90)
 			(effects
 				(font
@@ -19122,7 +20148,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 180.34 129.54 90)
 			(effects
 				(font
@@ -19176,7 +20202,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D206")
+					(reference "D90")
 					(unit 1)
 				)
 			)
@@ -19260,7 +20286,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e8fec1b3-5616-41d4-b126-60131beeb8ef")
-		(property "Reference" "D183"
+		(property "Reference" "D67"
 			(at 138.43 110.4899 90)
 			(effects
 				(font
@@ -19278,7 +20304,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 135.89 111.76 90)
 			(effects
 				(font
@@ -19332,7 +20358,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D183")
+					(reference "D67")
 					(unit 1)
 				)
 			)
@@ -19552,7 +20578,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ed6152de-a022-40a9-aa57-52b15aa7ed39")
-		(property "Reference" "D138"
+		(property "Reference" "D22"
 			(at 55.88 74.9299 90)
 			(effects
 				(font
@@ -19570,7 +20596,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 53.34 76.2 90)
 			(effects
 				(font
@@ -19624,7 +20650,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D138")
+					(reference "D22")
 					(unit 1)
 				)
 			)
@@ -19640,7 +20666,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ee1b3349-5345-412b-be09-3c5dbd405ebb")
-		(property "Reference" "D215"
+		(property "Reference" "D99"
 			(at 104.14 146.0499 90)
 			(effects
 				(font
@@ -19658,7 +20684,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 101.6 147.32 90)
 			(effects
 				(font
@@ -19712,7 +20738,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D215")
+					(reference "D99")
 					(unit 1)
 				)
 			)
@@ -19796,7 +20822,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f098d3d5-db8b-4fb4-a9a4-e4ac1aac13b9")
-		(property "Reference" "D195"
+		(property "Reference" "D79"
 			(at 46.99 128.2699 90)
 			(effects
 				(font
@@ -19814,7 +20840,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 44.45 129.54 90)
 			(effects
 				(font
@@ -19868,7 +20894,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D195")
+					(reference "D79")
 					(unit 1)
 				)
 			)
@@ -19884,7 +20910,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f2471cf6-bca5-405b-a309-0d6cf4449c0d")
-		(property "Reference" "D131"
+		(property "Reference" "D15"
 			(at 191.77 57.1499 90)
 			(effects
 				(font
@@ -19902,7 +20928,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 189.23 58.42 90)
 			(effects
 				(font
@@ -19956,7 +20982,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D131")
+					(reference "D15")
 					(unit 1)
 				)
 			)
@@ -20108,7 +21134,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f48f6d6d-c54a-4b6e-9ea5-4314f3a94836")
-		(property "Reference" "D172"
+		(property "Reference" "D56"
 			(at 191.77 92.7099 90)
 			(effects
 				(font
@@ -20126,7 +21152,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 189.23 93.98 90)
 			(effects
 				(font
@@ -20180,7 +21206,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D172")
+					(reference "D56")
 					(unit 1)
 				)
 			)
@@ -20196,7 +21222,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f56fc4ab-9298-44cd-9570-6b4082542d75")
-		(property "Reference" "D186"
+		(property "Reference" "D70"
 			(at 165.1 110.4899 90)
 			(effects
 				(font
@@ -20214,7 +21240,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 162.56 111.76 90)
 			(effects
 				(font
@@ -20268,7 +21294,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D186")
+					(reference "D70")
 					(unit 1)
 				)
 			)
@@ -20352,7 +21378,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f7fe90b7-4ad8-4284-87bf-a598364dfde5")
-		(property "Reference" "D191"
+		(property "Reference" "D75"
 			(at 209.55 110.4899 90)
 			(effects
 				(font
@@ -20370,7 +21396,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 207.01 111.76 90)
 			(effects
 				(font
@@ -20424,7 +21450,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D191")
+					(reference "D75")
 					(unit 1)
 				)
 			)
@@ -20508,7 +21534,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f9808093-6473-4839-8afd-5e36247b397d")
-		(property "Reference" "D219"
+		(property "Reference" "D103"
 			(at 147.32 146.0499 90)
 			(effects
 				(font
@@ -20526,7 +21552,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 144.78 147.32 90)
 			(effects
 				(font
@@ -20580,7 +21606,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D219")
+					(reference "D103")
 					(unit 1)
 				)
 			)
@@ -20664,7 +21690,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fb7a1e95-377c-4e2f-a8ce-907fe3e4826b")
-		(property "Reference" "D124"
+		(property "Reference" "D8"
 			(at 129.54 57.1499 90)
 			(effects
 				(font
@@ -20682,7 +21708,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 127 58.42 90)
 			(effects
 				(font
@@ -20736,7 +21762,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D124")
+					(reference "D8")
 					(unit 1)
 				)
 			)
@@ -20752,7 +21778,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fbef2389-0eac-4f29-8724-36f09f282a6f")
-		(property "Reference" "D185"
+		(property "Reference" "D69"
 			(at 156.21 110.4899 90)
 			(effects
 				(font
@@ -20770,7 +21796,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty"
+		(property "Footprint" "my-footprints:D_SOD-123-Pretty-symbol"
 			(at 153.67 111.76 90)
 			(effects
 				(font
@@ -20824,7 +21850,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/81da0763-6a40-4d28-8f30-2b8a62fdad8f"
-					(reference "D185")
+					(reference "D69")
 					(unit 1)
 				)
 			)

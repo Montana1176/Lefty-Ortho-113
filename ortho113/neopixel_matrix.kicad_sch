@@ -1630,7 +1630,7 @@
 		)
 		(uuid "feb275f2-6aad-45bd-8543-944d5ae24215")
 	)
-	(global_label "GPIO1"
+	(global_label "NP_IN"
 		(shape input)
 		(at 33.02 59.69 180)
 		(fields_autoplaced yes)
@@ -1640,9 +1640,9 @@
 			)
 			(justify right)
 		)
-		(uuid "30ca1d52-c72f-4c79-80e4-f026a550e35a")
+		(uuid "8b74eaa5-c3bd-4fee-b99f-1b98a74d026f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 24.35 59.69 0)
+			(at 24.5314 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1678,7 +1678,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 331.47 123.19 0)
 			(effects
 				(font
@@ -1755,7 +1755,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 449.58 151.13 0)
 			(effects
 				(font
@@ -1831,7 +1831,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 138.43 67.31 0)
 			(effects
 				(font
@@ -1891,7 +1891,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0486400a-19e1-42b8-950e-0146415f48a1")
-		(property "Reference" "#PWR090"
+		(property "Reference" "#PWR097"
 			(at 161.29 111.76 0)
 			(effects
 				(font
@@ -1941,7 +1941,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR090")
+					(reference "#PWR097")
 					(unit 1)
 				)
 			)
@@ -1974,7 +1974,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 135.89 95.25 0)
 			(effects
 				(font
@@ -2035,7 +2035,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "04f38ea6-f5cb-47e4-90d0-58b77551a72b")
-		(property "Reference" "#PWR0199"
+		(property "Reference" "#PWR0206"
 			(at 209.55 195.58 0)
 			(effects
 				(font
@@ -2085,7 +2085,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0199")
+					(reference "#PWR0206")
 					(unit 1)
 				)
 			)
@@ -2117,7 +2117,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 90.17 123.19 0)
 			(effects
 				(font
@@ -2178,7 +2178,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0558bee6-5464-4406-8b6b-33b46684da65")
-		(property "Reference" "#PWR0214"
+		(property "Reference" "#PWR0221"
 			(at 137.16 213.36 0)
 			(effects
 				(font
@@ -2228,7 +2228,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0214")
+					(reference "#PWR0221")
 					(unit 1)
 				)
 			)
@@ -2261,7 +2261,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 449.58 207.01 0)
 			(effects
 				(font
@@ -2337,7 +2337,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 355.6 67.31 0)
 			(effects
 				(font
@@ -2398,7 +2398,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0859ab1b-14dd-43dd-b998-7b4e047da82d")
-		(property "Reference" "#PWR052"
+		(property "Reference" "#PWR059"
 			(at 257.81 83.82 0)
 			(effects
 				(font
@@ -2448,7 +2448,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR052")
+					(reference "#PWR059")
 					(unit 1)
 				)
 			)
@@ -2464,7 +2464,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0924eaf1-f029-471d-afca-205e0ea9cc54")
-		(property "Reference" "#PWR093"
+		(property "Reference" "#PWR0100"
 			(at 233.68 111.76 0)
 			(effects
 				(font
@@ -2514,7 +2514,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR093")
+					(reference "#PWR0100")
 					(unit 1)
 				)
 			)
@@ -2531,7 +2531,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0a186d93-af23-4dd8-a2af-62d2ac4266e3")
-		(property "Reference" "#PWR0229"
+		(property "Reference" "#PWR0236"
 			(at 499.11 213.36 0)
 			(effects
 				(font
@@ -2581,7 +2581,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0229")
+					(reference "#PWR0236")
 					(unit 1)
 				)
 			)
@@ -2598,7 +2598,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0a2298f2-f6aa-4742-b893-f04a7762e59f")
-		(property "Reference" "#PWR0226"
+		(property "Reference" "#PWR0233"
 			(at 426.72 213.36 0)
 			(effects
 				(font
@@ -2648,7 +2648,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0226")
+					(reference "#PWR0233")
 					(unit 1)
 				)
 			)
@@ -2664,7 +2664,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0abb3046-774c-4002-910a-3333cc0618c4")
-		(property "Reference" "#PWR0118"
+		(property "Reference" "#PWR0125"
 			(at 330.2 129.54 0)
 			(effects
 				(font
@@ -2714,7 +2714,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0118")
+					(reference "#PWR0125")
 					(unit 1)
 				)
 			)
@@ -2730,7 +2730,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0b1e4ae2-964f-495a-b061-b49811ec22cd")
-		(property "Reference" "#PWR097"
+		(property "Reference" "#PWR0104"
 			(at 330.2 111.76 0)
 			(effects
 				(font
@@ -2780,7 +2780,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR097")
+					(reference "#PWR0104")
 					(unit 1)
 				)
 			)
@@ -2796,7 +2796,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0c520d3a-df04-4be4-9dc1-2a05d150eb5e")
-		(property "Reference" "#PWR025"
+		(property "Reference" "#PWR032"
 			(at 88.9 73.66 0)
 			(effects
 				(font
@@ -2846,7 +2846,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR025")
+					(reference "#PWR032")
 					(unit 1)
 				)
 			)
@@ -2879,7 +2879,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 353.06 95.25 0)
 			(effects
 				(font
@@ -2955,7 +2955,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 476.25 67.31 0)
 			(effects
 				(font
@@ -3016,7 +3016,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1214f45f-c3fb-4daa-be8a-f53870ffa026")
-		(property "Reference" "#PWR0208"
+		(property "Reference" "#PWR0215"
 			(at 426.72 195.58 0)
 			(effects
 				(font
@@ -3066,7 +3066,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0208")
+					(reference "#PWR0215")
 					(unit 1)
 				)
 			)
@@ -3082,7 +3082,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "12168a28-da30-4f81-ba1a-efedc2693fd3")
-		(property "Reference" "#PWR0112"
+		(property "Reference" "#PWR0119"
 			(at 185.42 129.54 0)
 			(effects
 				(font
@@ -3132,7 +3132,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0112")
+					(reference "#PWR0119")
 					(unit 1)
 				)
 			)
@@ -3165,7 +3165,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 328.93 95.25 0)
 			(effects
 				(font
@@ -3226,7 +3226,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1465598c-88ff-439d-a7e3-dd792f881c86")
-		(property "Reference" "#PWR0213"
+		(property "Reference" "#PWR0220"
 			(at 88.9 213.36 0)
 			(effects
 				(font
@@ -3276,7 +3276,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0213")
+					(reference "#PWR0220")
 					(unit 1)
 				)
 			)
@@ -3308,7 +3308,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 41.91 179.07 0)
 			(effects
 				(font
@@ -3369,7 +3369,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1668ce1e-9be7-45b3-b994-0ef578b3334b")
-		(property "Reference" "#PWR0209"
+		(property "Reference" "#PWR0216"
 			(at 450.85 195.58 0)
 			(effects
 				(font
@@ -3419,7 +3419,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0209")
+					(reference "#PWR0216")
 					(unit 1)
 				)
 			)
@@ -3452,7 +3452,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 425.45 207.01 0)
 			(effects
 				(font
@@ -3513,7 +3513,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1a12dc2b-7eb7-486d-8c82-8dca90e00378")
-		(property "Reference" "#PWR078"
+		(property "Reference" "#PWR085"
 			(at 378.46 101.6 0)
 			(effects
 				(font
@@ -3563,7 +3563,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR078")
+					(reference "#PWR085")
 					(unit 1)
 				)
 			)
@@ -3596,7 +3596,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 184.15 95.25 0)
 			(effects
 				(font
@@ -3657,7 +3657,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1b67c598-8bf3-4e94-8623-fb0a092da3f8")
-		(property "Reference" "#PWR0203"
+		(property "Reference" "#PWR0210"
 			(at 306.07 195.58 0)
 			(effects
 				(font
@@ -3707,7 +3707,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0203")
+					(reference "#PWR0210")
 					(unit 1)
 				)
 			)
@@ -3724,7 +3724,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1b73d80c-21d9-45b9-98cc-1ddd2224ed53")
-		(property "Reference" "#PWR0223"
+		(property "Reference" "#PWR0230"
 			(at 354.33 213.36 0)
 			(effects
 				(font
@@ -3774,7 +3774,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0223")
+					(reference "#PWR0230")
 					(unit 1)
 				)
 			)
@@ -3807,7 +3807,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 353.06 151.13 0)
 			(effects
 				(font
@@ -3868,7 +3868,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1d740354-547d-4abd-b8e2-d2ec5bb24b7d")
-		(property "Reference" "#PWR0134"
+		(property "Reference" "#PWR0141"
 			(at 306.07 139.7 0)
 			(effects
 				(font
@@ -3918,7 +3918,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0134")
+					(reference "#PWR0141")
 					(unit 1)
 				)
 			)
@@ -3934,7 +3934,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1d7e345b-2124-4a05-86cc-f42096354b7a")
-		(property "Reference" "#PWR0124"
+		(property "Reference" "#PWR0131"
 			(at 474.98 129.54 0)
 			(effects
 				(font
@@ -3984,7 +3984,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0124")
+					(reference "#PWR0131")
 					(unit 1)
 				)
 			)
@@ -4001,7 +4001,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1dcc58e5-5668-4a92-932f-1773076b2328")
-		(property "Reference" "#PWR0204"
+		(property "Reference" "#PWR0211"
 			(at 330.2 195.58 0)
 			(effects
 				(font
@@ -4051,7 +4051,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0204")
+					(reference "#PWR0211")
 					(unit 1)
 				)
 			)
@@ -4084,7 +4084,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 63.5 151.13 0)
 			(effects
 				(font
@@ -4145,7 +4145,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1ec59b3c-2ef4-4cd8-aa3a-7817f745aea8")
-		(property "Reference" "#PWR0141"
+		(property "Reference" "#PWR0148"
 			(at 474.98 139.7 0)
 			(effects
 				(font
@@ -4195,7 +4195,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0141")
+					(reference "#PWR0148")
 					(unit 1)
 				)
 			)
@@ -4211,7 +4211,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1ed0a2be-b272-4dc6-b73c-8a7d61a9be52")
-		(property "Reference" "#PWR0110"
+		(property "Reference" "#PWR0117"
 			(at 137.16 129.54 0)
 			(effects
 				(font
@@ -4261,7 +4261,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0110")
+					(reference "#PWR0117")
 					(unit 1)
 				)
 			)
@@ -4277,7 +4277,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "203d9d38-5deb-4b28-ad24-0b52633da4ea")
-		(property "Reference" "#PWR0178"
+		(property "Reference" "#PWR0185"
 			(at 88.9 185.42 0)
 			(effects
 				(font
@@ -4327,7 +4327,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0178")
+					(reference "#PWR0185")
 					(unit 1)
 				)
 			)
@@ -4344,7 +4344,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "22dd9be7-3a2d-4a48-8185-71eedbb0ac5b")
-		(property "Reference" "#PWR063"
+		(property "Reference" "#PWR070"
 			(at 523.24 83.82 0)
 			(effects
 				(font
@@ -4394,7 +4394,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR063")
+					(reference "#PWR070")
 					(unit 1)
 				)
 			)
@@ -4410,7 +4410,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "24ad2c02-fc9f-4809-91c7-ae6e7093200c")
-		(property "Reference" "#PWR021"
+		(property "Reference" "#PWR028"
 			(at 474.98 55.88 0)
 			(effects
 				(font
@@ -4460,7 +4460,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR021")
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
@@ -4492,7 +4492,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 379.73 123.19 0)
 			(effects
 				(font
@@ -4569,7 +4569,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 425.45 95.25 0)
 			(effects
 				(font
@@ -4645,7 +4645,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 427.99 179.07 0)
 			(effects
 				(font
@@ -4706,7 +4706,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "267b28b3-b4a0-4a81-80a9-f71a5dd5c153")
-		(property "Reference" "#PWR044"
+		(property "Reference" "#PWR051"
 			(at 64.77 83.82 0)
 			(effects
 				(font
@@ -4756,7 +4756,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR044")
+					(reference "#PWR051")
 					(unit 1)
 				)
 			)
@@ -4771,10 +4771,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "26b7263b-a4c0-4772-9dba-e9360974b3b2")
 		(property "Reference" "NP108"
-			(at 365.76 193.0714 0)
+			(at 366.014 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4849,7 +4848,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "274cf77a-31aa-466a-a034-583496b56fc6")
-		(property "Reference" "#PWR0175"
+		(property "Reference" "#PWR0182"
 			(at 474.98 167.64 0)
 			(effects
 				(font
@@ -4899,7 +4898,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0175")
+					(reference "#PWR0182")
 					(unit 1)
 				)
 			)
@@ -4915,7 +4914,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "27704d26-f816-4adf-8af8-7be63a672780")
-		(property "Reference" "#PWR041"
+		(property "Reference" "#PWR048"
 			(at 474.98 73.66 0)
 			(effects
 				(font
@@ -4965,7 +4964,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR041")
+					(reference "#PWR048")
 					(unit 1)
 				)
 			)
@@ -4981,7 +4980,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2b409441-f838-4f06-8b50-d13f6ac045f1")
-		(property "Reference" "#PWR028"
+		(property "Reference" "#PWR035"
 			(at 161.29 73.66 0)
 			(effects
 				(font
@@ -5031,7 +5030,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR028")
+					(reference "#PWR035")
 					(unit 1)
 				)
 			)
@@ -5047,7 +5046,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2b4e8a18-c05c-4c35-93f5-3ee21b67eb3e")
-		(property "Reference" "#PWR0173"
+		(property "Reference" "#PWR0180"
 			(at 426.72 167.64 0)
 			(effects
 				(font
@@ -5097,7 +5096,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0173")
+					(reference "#PWR0180")
 					(unit 1)
 				)
 			)
@@ -5113,7 +5112,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2b5b89a2-0878-47e3-beea-c9c8b84c6122")
-		(property "Reference" "#PWR019"
+		(property "Reference" "#PWR026"
 			(at 426.72 55.88 0)
 			(effects
 				(font
@@ -5163,7 +5162,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR019")
+					(reference "#PWR026")
 					(unit 1)
 				)
 			)
@@ -5180,7 +5179,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2c2333ab-9742-41a7-8121-472321b8cac6")
-		(property "Reference" "#PWR050"
+		(property "Reference" "#PWR057"
 			(at 209.55 83.82 0)
 			(effects
 				(font
@@ -5230,7 +5229,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR050")
+					(reference "#PWR057")
 					(unit 1)
 				)
 			)
@@ -5263,7 +5262,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 256.54 207.01 0)
 			(effects
 				(font
@@ -5324,7 +5323,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2c33047b-ba2c-4e51-95c4-d3dde99039ff")
-		(property "Reference" "#PWR045"
+		(property "Reference" "#PWR052"
 			(at 88.9 83.82 0)
 			(effects
 				(font
@@ -5374,7 +5373,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR045")
+					(reference "#PWR052")
 					(unit 1)
 				)
 			)
@@ -5390,7 +5389,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2c3a71dd-ba9a-4676-8568-6dd3f97ca349")
-		(property "Reference" "#PWR0161"
+		(property "Reference" "#PWR0168"
 			(at 88.9 167.64 0)
 			(effects
 				(font
@@ -5440,7 +5439,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0161")
+					(reference "#PWR0168")
 					(unit 1)
 				)
 			)
@@ -5456,7 +5455,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2c4925d8-ccde-4d14-b304-89f57b967bc7")
-		(property "Reference" "#PWR0186"
+		(property "Reference" "#PWR0193"
 			(at 306.07 185.42 0)
 			(effects
 				(font
@@ -5506,7 +5505,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0186")
+					(reference "#PWR0193")
 					(unit 1)
 				)
 			)
@@ -5522,7 +5521,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2c959981-5a81-4bb1-947f-0fdd258f9064")
-		(property "Reference" "#PWR039"
+		(property "Reference" "#PWR046"
 			(at 426.72 73.66 0)
 			(effects
 				(font
@@ -5572,7 +5571,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR039")
+					(reference "#PWR046")
 					(unit 1)
 				)
 			)
@@ -5588,7 +5587,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2cec7c19-d411-4c03-a9c8-853342464d74")
-		(property "Reference" "#PWR0125"
+		(property "Reference" "#PWR0132"
 			(at 499.11 129.54 0)
 			(effects
 				(font
@@ -5638,7 +5637,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0125")
+					(reference "#PWR0132")
 					(unit 1)
 				)
 			)
@@ -5671,7 +5670,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 280.67 151.13 0)
 			(effects
 				(font
@@ -5732,7 +5731,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2e46b936-6059-47e6-bdd2-a641b73e9270")
-		(property "Reference" "#PWR0149"
+		(property "Reference" "#PWR0156"
 			(at 281.94 157.48 0)
 			(effects
 				(font
@@ -5782,7 +5781,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0149")
+					(reference "#PWR0156")
 					(unit 1)
 				)
 			)
@@ -5815,7 +5814,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 401.32 151.13 0)
 			(effects
 				(font
@@ -5875,7 +5874,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "30d2d268-587c-4f03-95eb-ece624f1e5ca")
-		(property "Reference" "#PWR0120"
+		(property "Reference" "#PWR0127"
 			(at 378.46 129.54 0)
 			(effects
 				(font
@@ -5925,7 +5924,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0120")
+					(reference "#PWR0127")
 					(unit 1)
 				)
 			)
@@ -5941,7 +5940,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "313475d2-2831-41fd-bd7b-f7d7acacd82c")
-		(property "Reference" "#PWR0185"
+		(property "Reference" "#PWR0192"
 			(at 281.94 185.42 0)
 			(effects
 				(font
@@ -5991,7 +5990,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0185")
+					(reference "#PWR0192")
 					(unit 1)
 				)
 			)
@@ -6008,7 +6007,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "31d6fafa-27c3-48f1-a73a-2900a382cbdb")
-		(property "Reference" "#PWR0156"
+		(property "Reference" "#PWR0163"
 			(at 450.85 157.48 0)
 			(effects
 				(font
@@ -6058,7 +6057,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0156")
+					(reference "#PWR0163")
 					(unit 1)
 				)
 			)
@@ -6090,7 +6089,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 162.56 179.07 0)
 			(effects
 				(font
@@ -6150,7 +6149,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "32a13145-d6a5-4572-988b-cd3dc1f4f57c")
-		(property "Reference" "#PWR0181"
+		(property "Reference" "#PWR0188"
 			(at 161.29 185.42 0)
 			(effects
 				(font
@@ -6200,7 +6199,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0181")
+					(reference "#PWR0188")
 					(unit 1)
 				)
 			)
@@ -6216,7 +6215,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "33b46fd4-ee8b-4f4a-b4d4-9223ebc3d328")
-		(property "Reference" "#PWR0177"
+		(property "Reference" "#PWR0184"
 			(at 64.77 185.42 0)
 			(effects
 				(font
@@ -6266,7 +6265,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0177")
+					(reference "#PWR0184")
 					(unit 1)
 				)
 			)
@@ -6298,7 +6297,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 114.3 67.31 0)
 			(effects
 				(font
@@ -6359,7 +6358,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "36f3b588-0fc5-48d7-898a-e839f5bb6178")
-		(property "Reference" "#PWR065"
+		(property "Reference" "#PWR072"
 			(at 64.77 101.6 0)
 			(effects
 				(font
@@ -6409,7 +6408,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR065")
+					(reference "#PWR072")
 					(unit 1)
 				)
 			)
@@ -6425,7 +6424,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "37a6f043-3429-4c8a-aa7e-a9bd0e91d676")
-		(property "Reference" "#PWR0102"
+		(property "Reference" "#PWR0109"
 			(at 450.85 111.76 0)
 			(effects
 				(font
@@ -6475,7 +6474,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0102")
+					(reference "#PWR0109")
 					(unit 1)
 				)
 			)
@@ -6491,7 +6490,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "37b57a70-8af9-4d32-8cf8-c558baa89156")
-		(property "Reference" "#PWR013"
+		(property "Reference" "#PWR020"
 			(at 281.94 55.88 0)
 			(effects
 				(font
@@ -6541,7 +6540,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR013")
+					(reference "#PWR020")
 					(unit 1)
 				)
 			)
@@ -6557,7 +6556,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3812476a-3156-4b5a-8d9c-527724639db9")
-		(property "Reference" "#PWR022"
+		(property "Reference" "#PWR029"
 			(at 499.11 55.88 0)
 			(effects
 				(font
@@ -6607,7 +6606,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR022")
+					(reference "#PWR029")
 					(unit 1)
 				)
 			)
@@ -6624,7 +6623,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "38bc8740-1933-42ea-a2f7-3ebb5a7a4e72")
-		(property "Reference" "#PWR043"
+		(property "Reference" "#PWR050"
 			(at 40.64 83.82 0)
 			(effects
 				(font
@@ -6674,7 +6673,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR043")
+					(reference "#PWR050")
 					(unit 1)
 				)
 			)
@@ -6690,7 +6689,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "39799a9f-ca39-413d-9f32-c1ac7b7421e4")
-		(property "Reference" "#PWR0183"
+		(property "Reference" "#PWR0190"
 			(at 233.68 185.42 0)
 			(effects
 				(font
@@ -6740,7 +6739,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0183")
+					(reference "#PWR0190")
 					(unit 1)
 				)
 			)
@@ -6773,7 +6772,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 377.19 151.13 0)
 			(effects
 				(font
@@ -6849,7 +6848,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 234.95 123.19 0)
 			(effects
 				(font
@@ -6910,7 +6909,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3c9e30a9-478d-48c8-8340-c9fc823b80eb")
-		(property "Reference" "#PWR0210"
+		(property "Reference" "#PWR0217"
 			(at 474.98 195.58 0)
 			(effects
 				(font
@@ -6960,7 +6959,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0210")
+					(reference "#PWR0217")
 					(unit 1)
 				)
 			)
@@ -6993,7 +6992,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 521.97 95.25 0)
 			(effects
 				(font
@@ -7054,7 +7053,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3cf5330f-28a3-48fd-b249-dbda6b7a2fd9")
-		(property "Reference" "#PWR0142"
+		(property "Reference" "#PWR0149"
 			(at 499.11 139.7 0)
 			(effects
 				(font
@@ -7104,7 +7103,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0142")
+					(reference "#PWR0149")
 					(unit 1)
 				)
 			)
@@ -7136,7 +7135,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 403.86 67.31 0)
 			(effects
 				(font
@@ -7197,7 +7196,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3ed8783c-a909-4601-b291-c9bc8e94e6e7")
-		(property "Reference" "#PWR0157"
+		(property "Reference" "#PWR0164"
 			(at 474.98 157.48 0)
 			(effects
 				(font
@@ -7247,7 +7246,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0157")
+					(reference "#PWR0164")
 					(unit 1)
 				)
 			)
@@ -7264,7 +7263,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "40e6d929-d12a-46cb-acee-b985e3a8dd2a")
-		(property "Reference" "#PWR080"
+		(property "Reference" "#PWR087"
 			(at 426.72 101.6 0)
 			(effects
 				(font
@@ -7314,7 +7313,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR080")
+					(reference "#PWR087")
 					(unit 1)
 				)
 			)
@@ -7330,7 +7329,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "41023bba-798a-4ee2-8944-dc7278b1077c")
-		(property "Reference" "#PWR091"
+		(property "Reference" "#PWR098"
 			(at 185.42 111.76 0)
 			(effects
 				(font
@@ -7380,7 +7379,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR091")
+					(reference "#PWR098")
 					(unit 1)
 				)
 			)
@@ -7412,7 +7411,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 331.47 179.07 0)
 			(effects
 				(font
@@ -7473,7 +7472,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "42d90366-537a-42b6-aa72-18ea0c87006d")
-		(property "Reference" "#PWR0211"
+		(property "Reference" "#PWR0218"
 			(at 499.11 195.58 0)
 			(effects
 				(font
@@ -7523,7 +7522,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0211")
+					(reference "#PWR0218")
 					(unit 1)
 				)
 			)
@@ -7540,7 +7539,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "447ebdc0-4b99-4e90-a608-a9d2c3e62442")
-		(property "Reference" "#PWR079"
+		(property "Reference" "#PWR086"
 			(at 402.59 101.6 0)
 			(effects
 				(font
@@ -7590,7 +7589,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR079")
+					(reference "#PWR086")
 					(unit 1)
 				)
 			)
@@ -7606,7 +7605,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "44ab1e0b-e235-4e59-9049-1944d2ba33aa")
-		(property "Reference" "#PWR033"
+		(property "Reference" "#PWR040"
 			(at 281.94 73.66 0)
 			(effects
 				(font
@@ -7656,7 +7655,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR033")
+					(reference "#PWR040")
 					(unit 1)
 				)
 			)
@@ -7688,7 +7687,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 90.17 67.31 0)
 			(effects
 				(font
@@ -7748,7 +7747,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "45747b1f-80d8-4125-b1b9-e5a3f8e7cef8")
-		(property "Reference" "#PWR0105"
+		(property "Reference" "#PWR0112"
 			(at 523.24 111.76 0)
 			(effects
 				(font
@@ -7798,7 +7797,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0105")
+					(reference "#PWR0112")
 					(unit 1)
 				)
 			)
@@ -7815,7 +7814,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4664fd41-b298-4317-a40e-b7c41b271c2e")
-		(property "Reference" "#PWR0195"
+		(property "Reference" "#PWR0202"
 			(at 88.9 195.58 0)
 			(effects
 				(font
@@ -7865,7 +7864,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0195")
+					(reference "#PWR0202")
 					(unit 1)
 				)
 			)
@@ -7881,7 +7880,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4797833a-420d-43a2-8e00-4be2f955f16c")
-		(property "Reference" "#PWR026"
+		(property "Reference" "#PWR033"
 			(at 113.03 73.66 0)
 			(effects
 				(font
@@ -7931,7 +7930,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR026")
+					(reference "#PWR033")
 					(unit 1)
 				)
 			)
@@ -7948,7 +7947,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "47e3648a-97c4-4059-9db7-aeca549bf1f6")
-		(property "Reference" "#PWR0137"
+		(property "Reference" "#PWR0144"
 			(at 378.46 139.7 0)
 			(effects
 				(font
@@ -7998,7 +7997,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0137")
+					(reference "#PWR0144")
 					(unit 1)
 				)
 			)
@@ -8031,7 +8030,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 280.67 95.25 0)
 			(effects
 				(font
@@ -8091,7 +8090,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "48ee4218-95a0-4949-9546-cff3d67464cf")
-		(property "Reference" "#PWR0108"
+		(property "Reference" "#PWR0115"
 			(at 88.9 129.54 0)
 			(effects
 				(font
@@ -8141,7 +8140,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0108")
+					(reference "#PWR0115")
 					(unit 1)
 				)
 			)
@@ -8157,7 +8156,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "48fdbee2-f879-435b-a7b4-cc0b5edec65b")
-		(property "Reference" "#PWR035"
+		(property "Reference" "#PWR042"
 			(at 330.2 73.66 0)
 			(effects
 				(font
@@ -8207,7 +8206,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR035")
+					(reference "#PWR042")
 					(unit 1)
 				)
 			)
@@ -8224,7 +8223,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "49331481-104f-4d95-99ad-6ad4e65f5357")
-		(property "Reference" "#PWR057"
+		(property "Reference" "#PWR064"
 			(at 378.46 83.82 0)
 			(effects
 				(font
@@ -8274,7 +8273,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR057")
+					(reference "#PWR064")
 					(unit 1)
 				)
 			)
@@ -8291,7 +8290,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4936f8d4-a365-401d-97cc-a272358c7d25")
-		(property "Reference" "#PWR0197"
+		(property "Reference" "#PWR0204"
 			(at 161.29 195.58 0)
 			(effects
 				(font
@@ -8341,7 +8340,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0197")
+					(reference "#PWR0204")
 					(unit 1)
 				)
 			)
@@ -8373,7 +8372,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 186.69 67.31 0)
 			(effects
 				(font
@@ -8433,7 +8432,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "49e98ec0-12ce-4786-b23c-a82f1d0df843")
-		(property "Reference" "#PWR036"
+		(property "Reference" "#PWR043"
 			(at 354.33 73.66 0)
 			(effects
 				(font
@@ -8483,7 +8482,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR036")
+					(reference "#PWR043")
 					(unit 1)
 				)
 			)
@@ -8500,7 +8499,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4a485339-17e1-40e4-99fd-28deedeb5ea0")
-		(property "Reference" "#PWR0140"
+		(property "Reference" "#PWR0147"
 			(at 450.85 139.7 0)
 			(effects
 				(font
@@ -8550,7 +8549,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0140")
+					(reference "#PWR0147")
 					(unit 1)
 				)
 			)
@@ -8567,7 +8566,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4ac6701b-d7cb-4cd7-a627-fd9fa7d995bc")
-		(property "Reference" "#PWR0154"
+		(property "Reference" "#PWR0161"
 			(at 402.59 157.48 0)
 			(effects
 				(font
@@ -8617,7 +8616,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0154")
+					(reference "#PWR0161")
 					(unit 1)
 				)
 			)
@@ -8650,7 +8649,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 184.15 207.01 0)
 			(effects
 				(font
@@ -8727,7 +8726,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 280.67 207.01 0)
 			(effects
 				(font
@@ -8787,7 +8786,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4c7d44ce-83a1-4c58-90a7-60ebabfdfc48")
-		(property "Reference" "#PWR0162"
+		(property "Reference" "#PWR0169"
 			(at 113.03 167.64 0)
 			(effects
 				(font
@@ -8837,7 +8836,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0162")
+					(reference "#PWR0169")
 					(unit 1)
 				)
 			)
@@ -8853,7 +8852,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4da8c210-4bc0-4495-b3b6-2b4ac1668559")
-		(property "Reference" "#PWR0111"
+		(property "Reference" "#PWR0118"
 			(at 161.29 129.54 0)
 			(effects
 				(font
@@ -8903,7 +8902,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0111")
+					(reference "#PWR0118")
 					(unit 1)
 				)
 			)
@@ -8919,7 +8918,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4fd48109-4fd3-4c63-afd1-7059e8eca109")
-		(property "Reference" "#PWR0104"
+		(property "Reference" "#PWR0111"
 			(at 499.11 111.76 0)
 			(effects
 				(font
@@ -8969,7 +8968,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0104")
+					(reference "#PWR0111")
 					(unit 1)
 				)
 			)
@@ -8986,7 +8985,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "51be85b9-af3f-4049-b315-bd45b2cddc01")
-		(property "Reference" "#PWR0158"
+		(property "Reference" "#PWR0165"
 			(at 499.11 157.48 0)
 			(effects
 				(font
@@ -9036,7 +9035,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0158")
+					(reference "#PWR0165")
 					(unit 1)
 				)
 			)
@@ -9053,7 +9052,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "51c2da82-3b17-48ba-af4e-9baa896322a9")
-		(property "Reference" "#PWR0129"
+		(property "Reference" "#PWR0136"
 			(at 88.9 139.7 0)
 			(effects
 				(font
@@ -9103,7 +9102,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0129")
+					(reference "#PWR0136")
 					(unit 1)
 				)
 			)
@@ -9119,7 +9118,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "52a6febf-c530-404a-bb18-6dbc0a3387f7")
-		(property "Reference" "#PWR09"
+		(property "Reference" "#PWR016"
 			(at 185.42 55.88 0)
 			(effects
 				(font
@@ -9169,7 +9168,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR09")
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)
@@ -9201,7 +9200,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 41.91 67.31 0)
 			(effects
 				(font
@@ -9262,7 +9261,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "553694a7-d520-4d80-bc98-c01da6bf07f9")
-		(property "Reference" "#PWR0151"
+		(property "Reference" "#PWR0158"
 			(at 330.2 157.48 0)
 			(effects
 				(font
@@ -9312,7 +9311,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0151")
+					(reference "#PWR0158")
 					(unit 1)
 				)
 			)
@@ -9345,7 +9344,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 497.84 95.25 0)
 			(effects
 				(font
@@ -9406,7 +9405,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "55b022c3-1ea9-4da2-a257-5cb5c7b6ed90")
-		(property "Reference" "#PWR061"
+		(property "Reference" "#PWR068"
 			(at 474.98 83.82 0)
 			(effects
 				(font
@@ -9456,7 +9455,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR061")
+					(reference "#PWR068")
 					(unit 1)
 				)
 			)
@@ -9489,7 +9488,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 401.32 95.25 0)
 			(effects
 				(font
@@ -9549,7 +9548,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "573cd5f4-cfee-4545-9e26-7f4e5cab37fc")
-		(property "Reference" "#PWR032"
+		(property "Reference" "#PWR039"
 			(at 257.81 73.66 0)
 			(effects
 				(font
@@ -9599,7 +9598,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR032")
+					(reference "#PWR039")
 					(unit 1)
 				)
 			)
@@ -9631,7 +9630,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 114.3 123.19 0)
 			(effects
 				(font
@@ -9691,7 +9690,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "588038cc-6af5-4b7a-b714-284bf4ddf9ee")
-		(property "Reference" "#PWR0193"
+		(property "Reference" "#PWR0200"
 			(at 474.98 185.42 0)
 			(effects
 				(font
@@ -9741,7 +9740,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0193")
+					(reference "#PWR0200")
 					(unit 1)
 				)
 			)
@@ -9757,7 +9756,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "58985f3f-e0b2-42a5-bd74-52205242868d")
-		(property "Reference" "#PWR024"
+		(property "Reference" "#PWR031"
 			(at 64.77 73.66 0)
 			(effects
 				(font
@@ -9807,7 +9806,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR024")
+					(reference "#PWR031")
 					(unit 1)
 				)
 			)
@@ -9823,7 +9822,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "590173d7-7308-466a-a76a-48e0e266961b")
-		(property "Reference" "#PWR038"
+		(property "Reference" "#PWR045"
 			(at 402.59 73.66 0)
 			(effects
 				(font
@@ -9873,7 +9872,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR038")
+					(reference "#PWR045")
 					(unit 1)
 				)
 			)
@@ -9889,7 +9888,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "59833fca-c02c-496f-93fc-2a228a9aab7d")
-		(property "Reference" "#PWR0182"
+		(property "Reference" "#PWR0189"
 			(at 209.55 185.42 0)
 			(effects
 				(font
@@ -9939,7 +9938,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0182")
+					(reference "#PWR0189")
 					(unit 1)
 				)
 			)
@@ -9971,7 +9970,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 234.95 179.07 0)
 			(effects
 				(font
@@ -10048,7 +10047,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 425.45 151.13 0)
 			(effects
 				(font
@@ -10108,7 +10107,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5a37a9e3-c2e7-41af-9898-b6b102703da6")
-		(property "Reference" "#PWR0192"
+		(property "Reference" "#PWR0199"
 			(at 450.85 185.42 0)
 			(effects
 				(font
@@ -10158,7 +10157,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0192")
+					(reference "#PWR0199")
 					(unit 1)
 				)
 			)
@@ -10175,7 +10174,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5a939479-11df-4e8c-84fc-daa2995aa71c")
-		(property "Reference" "#PWR0148"
+		(property "Reference" "#PWR0155"
 			(at 257.81 157.48 0)
 			(effects
 				(font
@@ -10225,7 +10224,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0148")
+					(reference "#PWR0155")
 					(unit 1)
 				)
 			)
@@ -10242,7 +10241,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5b5088b6-ff3d-4a1f-9972-cf6e0b88e174")
-		(property "Reference" "#PWR0155"
+		(property "Reference" "#PWR0162"
 			(at 426.72 157.48 0)
 			(effects
 				(font
@@ -10292,7 +10291,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0155")
+					(reference "#PWR0162")
 					(unit 1)
 				)
 			)
@@ -10324,7 +10323,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 259.08 67.31 0)
 			(effects
 				(font
@@ -10385,7 +10384,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5bb13514-12e4-4ea2-bc51-af481353f8c5")
-		(property "Reference" "#PWR0143"
+		(property "Reference" "#PWR0150"
 			(at 40.64 157.48 0)
 			(effects
 				(font
@@ -10435,7 +10434,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0143")
+					(reference "#PWR0150")
 					(unit 1)
 				)
 			)
@@ -10468,7 +10467,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 401.32 207.01 0)
 			(effects
 				(font
@@ -10529,7 +10528,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5d8cf65d-6480-4f7b-a499-f6a83b35bc2a")
-		(property "Reference" "#PWR081"
+		(property "Reference" "#PWR088"
 			(at 450.85 101.6 0)
 			(effects
 				(font
@@ -10579,7 +10578,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR081")
+					(reference "#PWR088")
 					(unit 1)
 				)
 			)
@@ -10596,7 +10595,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5fe6a083-b5df-4c4f-b683-4f8cc72024df")
-		(property "Reference" "#PWR0220"
+		(property "Reference" "#PWR0227"
 			(at 281.94 213.36 0)
 			(effects
 				(font
@@ -10646,7 +10645,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0220")
+					(reference "#PWR0227")
 					(unit 1)
 				)
 			)
@@ -10662,7 +10661,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5fee1a82-f953-4b07-9a90-05b228a67a44")
-		(property "Reference" "#PWR0159"
+		(property "Reference" "#PWR0166"
 			(at 40.64 167.64 0)
 			(effects
 				(font
@@ -10712,7 +10711,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0159")
+					(reference "#PWR0166")
 					(unit 1)
 				)
 			)
@@ -10728,7 +10727,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "60a9c26e-6ebb-4ebc-9430-b3082c58271f")
-		(property "Reference" "#PWR0117"
+		(property "Reference" "#PWR0124"
 			(at 306.07 129.54 0)
 			(effects
 				(font
@@ -10778,7 +10777,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0117")
+					(reference "#PWR0124")
 					(unit 1)
 				)
 			)
@@ -10795,7 +10794,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6226b4e6-1419-42df-bd46-d9cc62078beb")
-		(property "Reference" "#PWR0198"
+		(property "Reference" "#PWR0205"
 			(at 185.42 195.58 0)
 			(effects
 				(font
@@ -10845,7 +10844,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0198")
+					(reference "#PWR0205")
 					(unit 1)
 				)
 			)
@@ -10877,7 +10876,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 307.34 123.19 0)
 			(effects
 				(font
@@ -10953,7 +10952,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 41.91 123.19 0)
 			(effects
 				(font
@@ -11030,7 +11029,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 39.37 95.25 0)
 			(effects
 				(font
@@ -11106,7 +11105,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 379.73 179.07 0)
 			(effects
 				(font
@@ -11182,7 +11181,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 452.12 179.07 0)
 			(effects
 				(font
@@ -11258,7 +11257,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 66.04 67.31 0)
 			(effects
 				(font
@@ -11319,7 +11318,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6913bc1a-9470-43a4-bd43-886c2beedebb")
-		(property "Reference" "#PWR0128"
+		(property "Reference" "#PWR0135"
 			(at 64.77 139.7 0)
 			(effects
 				(font
@@ -11369,7 +11368,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0128")
+					(reference "#PWR0135")
 					(unit 1)
 				)
 			)
@@ -11402,7 +11401,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 232.41 151.13 0)
 			(effects
 				(font
@@ -11463,7 +11462,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "69839009-5963-43a8-a54b-976f28b588e8")
-		(property "Reference" "#PWR0217"
+		(property "Reference" "#PWR0224"
 			(at 209.55 213.36 0)
 			(effects
 				(font
@@ -11513,7 +11512,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0217")
+					(reference "#PWR0224")
 					(unit 1)
 				)
 			)
@@ -11546,7 +11545,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 377.19 95.25 0)
 			(effects
 				(font
@@ -11607,7 +11606,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6bbfa348-7a54-489b-b1cc-acdfafe12c64")
-		(property "Reference" "#PWR073"
+		(property "Reference" "#PWR080"
 			(at 257.81 101.6 0)
 			(effects
 				(font
@@ -11657,7 +11656,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR073")
+					(reference "#PWR080")
 					(unit 1)
 				)
 			)
@@ -11673,7 +11672,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6daacf96-b33d-49db-8233-5211ff582bc6")
-		(property "Reference" "#PWR0190"
+		(property "Reference" "#PWR0197"
 			(at 402.59 185.42 0)
 			(effects
 				(font
@@ -11723,7 +11722,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0190")
+					(reference "#PWR0197")
 					(unit 1)
 				)
 			)
@@ -11740,7 +11739,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6dbf33dd-3e3f-4cbd-a1b5-9ab38d67af19")
-		(property "Reference" "#PWR0131"
+		(property "Reference" "#PWR0138"
 			(at 233.68 139.7 0)
 			(effects
 				(font
@@ -11790,7 +11789,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0131")
+					(reference "#PWR0138")
 					(unit 1)
 				)
 			)
@@ -11823,7 +11822,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 328.93 207.01 0)
 			(effects
 				(font
@@ -11883,7 +11882,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7140c74e-fb25-41cd-956c-66be095e495d")
-		(property "Reference" "#PWR085"
+		(property "Reference" "#PWR092"
 			(at 40.64 111.76 0)
 			(effects
 				(font
@@ -11933,7 +11932,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR085")
+					(reference "#PWR092")
 					(unit 1)
 				)
 			)
@@ -11950,7 +11949,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "71e7229a-b336-4816-ad00-b53e496e319b")
-		(property "Reference" "#PWR0135"
+		(property "Reference" "#PWR0142"
 			(at 330.2 139.7 0)
 			(effects
 				(font
@@ -12000,7 +11999,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0135")
+					(reference "#PWR0142")
 					(unit 1)
 				)
 			)
@@ -12017,7 +12016,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "73442fa2-abf2-4fda-a913-d731e29cf4b0")
-		(property "Reference" "#PWR051"
+		(property "Reference" "#PWR058"
 			(at 233.68 83.82 0)
 			(effects
 				(font
@@ -12067,7 +12066,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR051")
+					(reference "#PWR058")
 					(unit 1)
 				)
 			)
@@ -12099,7 +12098,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 283.21 67.31 0)
 			(effects
 				(font
@@ -12160,7 +12159,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "78160c45-43fa-4c3a-84aa-bef1854dd487")
-		(property "Reference" "#PWR0147"
+		(property "Reference" "#PWR0154"
 			(at 233.68 157.48 0)
 			(effects
 				(font
@@ -12210,7 +12209,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0147")
+					(reference "#PWR0154")
 					(unit 1)
 				)
 			)
@@ -12226,7 +12225,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "78f2d5ee-3567-4ce4-8d64-ae80a08a5e26")
-		(property "Reference" "#PWR0180"
+		(property "Reference" "#PWR0187"
 			(at 137.16 185.42 0)
 			(effects
 				(font
@@ -12276,7 +12275,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0180")
+					(reference "#PWR0187")
 					(unit 1)
 				)
 			)
@@ -12293,7 +12292,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "799915ae-8de3-4df9-92a1-bf93fd99ffdc")
-		(property "Reference" "#PWR055"
+		(property "Reference" "#PWR062"
 			(at 330.2 83.82 0)
 			(effects
 				(font
@@ -12343,7 +12342,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR055")
+					(reference "#PWR062")
 					(unit 1)
 				)
 			)
@@ -12360,7 +12359,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7a195c67-6ba4-4054-9e6b-d018dc706346")
-		(property "Reference" "#PWR0205"
+		(property "Reference" "#PWR0212"
 			(at 354.33 195.58 0)
 			(effects
 				(font
@@ -12410,7 +12409,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0205")
+					(reference "#PWR0212")
 					(unit 1)
 				)
 			)
@@ -12443,7 +12442,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 353.06 207.01 0)
 			(effects
 				(font
@@ -12520,7 +12519,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 87.63 207.01 0)
 			(effects
 				(font
@@ -12581,7 +12580,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7bbd7930-d259-489f-93e3-7729361df422")
-		(property "Reference" "#PWR054"
+		(property "Reference" "#PWR061"
 			(at 306.07 83.82 0)
 			(effects
 				(font
@@ -12631,7 +12630,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR054")
+					(reference "#PWR061")
 					(unit 1)
 				)
 			)
@@ -12648,7 +12647,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7cce9836-b56f-400e-b991-5d30fe3e8513")
-		(property "Reference" "#PWR0139"
+		(property "Reference" "#PWR0146"
 			(at 426.72 139.7 0)
 			(effects
 				(font
@@ -12698,7 +12697,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0139")
+					(reference "#PWR0146")
 					(unit 1)
 				)
 			)
@@ -12715,7 +12714,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7d31f6cb-5936-45b3-90e3-eeb688669ea7")
-		(property "Reference" "#PWR071"
+		(property "Reference" "#PWR078"
 			(at 209.55 101.6 0)
 			(effects
 				(font
@@ -12765,7 +12764,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR071")
+					(reference "#PWR078")
 					(unit 1)
 				)
 			)
@@ -12782,7 +12781,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7eb41430-dec6-4d24-8374-75e1c3973114")
-		(property "Reference" "#PWR0152"
+		(property "Reference" "#PWR0159"
 			(at 354.33 157.48 0)
 			(effects
 				(font
@@ -12832,7 +12831,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0152")
+					(reference "#PWR0159")
 					(unit 1)
 				)
 			)
@@ -12865,7 +12864,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 208.28 151.13 0)
 			(effects
 				(font
@@ -12926,7 +12925,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "804eaeca-20c4-4fe1-985f-efad39ad3554")
-		(property "Reference" "#PWR069"
+		(property "Reference" "#PWR076"
 			(at 161.29 101.6 0)
 			(effects
 				(font
@@ -12976,7 +12975,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR069")
+					(reference "#PWR076")
 					(unit 1)
 				)
 			)
@@ -13008,7 +13007,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 307.34 67.31 0)
 			(effects
 				(font
@@ -13084,7 +13083,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 476.25 123.19 0)
 			(effects
 				(font
@@ -13144,7 +13143,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "82129e96-f997-4454-a230-a2fbfb6a721a")
-		(property "Reference" "#PWR030"
+		(property "Reference" "#PWR037"
 			(at 209.55 73.66 0)
 			(effects
 				(font
@@ -13194,7 +13193,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR030")
+					(reference "#PWR037")
 					(unit 1)
 				)
 			)
@@ -13226,7 +13225,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 234.95 67.31 0)
 			(effects
 				(font
@@ -13287,7 +13286,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "82b69b51-7850-44af-9b83-79b5aa3fb420")
-		(property "Reference" "#PWR083"
+		(property "Reference" "#PWR090"
 			(at 499.11 101.6 0)
 			(effects
 				(font
@@ -13337,7 +13336,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR083")
+					(reference "#PWR090")
 					(unit 1)
 				)
 			)
@@ -13354,7 +13353,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "83a985a7-4132-4fd4-ad00-1de0c7f60df1")
-		(property "Reference" "#PWR053"
+		(property "Reference" "#PWR060"
 			(at 281.94 83.82 0)
 			(effects
 				(font
@@ -13404,7 +13403,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR053")
+					(reference "#PWR060")
 					(unit 1)
 				)
 			)
@@ -13421,7 +13420,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "84eeca41-fb2b-4340-a5a4-573a7afd046f")
-		(property "Reference" "#PWR0146"
+		(property "Reference" "#PWR0153"
 			(at 209.55 157.48 0)
 			(effects
 				(font
@@ -13471,7 +13470,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0146")
+					(reference "#PWR0153")
 					(unit 1)
 				)
 			)
@@ -13504,7 +13503,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 87.63 151.13 0)
 			(effects
 				(font
@@ -13565,7 +13564,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "863ba3dc-2742-4706-8f77-6b8f1cb89c8b")
-		(property "Reference" "#PWR0136"
+		(property "Reference" "#PWR0143"
 			(at 354.33 139.7 0)
 			(effects
 				(font
@@ -13615,7 +13614,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0136")
+					(reference "#PWR0143")
 					(unit 1)
 				)
 			)
@@ -13632,7 +13631,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "869537a1-bb24-4059-9d08-1c710a915070")
-		(property "Reference" "#PWR068"
+		(property "Reference" "#PWR075"
 			(at 137.16 101.6 0)
 			(effects
 				(font
@@ -13682,7 +13681,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR068")
+					(reference "#PWR075")
 					(unit 1)
 				)
 			)
@@ -13698,7 +13697,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "86e9be0e-aee8-48fe-9b11-79b5412b1117")
-		(property "Reference" "#PWR086"
+		(property "Reference" "#PWR093"
 			(at 64.77 111.76 0)
 			(effects
 				(font
@@ -13748,7 +13747,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR086")
+					(reference "#PWR093")
 					(unit 1)
 				)
 			)
@@ -13764,7 +13763,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8717acca-0d1a-4029-94b0-2bf9fb7b0dfa")
-		(property "Reference" "#PWR017"
+		(property "Reference" "#PWR024"
 			(at 378.46 55.88 0)
 			(effects
 				(font
@@ -13814,7 +13813,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR017")
+					(reference "#PWR024")
 					(unit 1)
 				)
 			)
@@ -13830,7 +13829,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "882ad1f4-df93-4875-bc15-92ff05168a69")
-		(property "Reference" "#PWR0165"
+		(property "Reference" "#PWR0172"
 			(at 233.68 167.64 0)
 			(effects
 				(font
@@ -13880,7 +13879,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0165")
+					(reference "#PWR0172")
 					(unit 1)
 				)
 			)
@@ -13896,7 +13895,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8aded2ab-82b3-48c3-b0a8-72d9d4719d08")
-		(property "Reference" "#PWR018"
+		(property "Reference" "#PWR025"
 			(at 402.59 55.88 0)
 			(effects
 				(font
@@ -13946,7 +13945,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR018")
+					(reference "#PWR025")
 					(unit 1)
 				)
 			)
@@ -13963,7 +13962,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8bbf482b-435c-4961-9e8f-2efb4d2be95b")
-		(property "Reference" "#PWR062"
+		(property "Reference" "#PWR069"
 			(at 499.11 83.82 0)
 			(effects
 				(font
@@ -14013,7 +14012,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR062")
+					(reference "#PWR069")
 					(unit 1)
 				)
 			)
@@ -14045,7 +14044,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 379.73 67.31 0)
 			(effects
 				(font
@@ -14105,7 +14104,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8c69fcaa-3d1e-4245-867e-f2ba5fad1076")
-		(property "Reference" "#PWR088"
+		(property "Reference" "#PWR095"
 			(at 113.03 111.76 0)
 			(effects
 				(font
@@ -14155,7 +14154,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR088")
+					(reference "#PWR095")
 					(unit 1)
 				)
 			)
@@ -14187,7 +14186,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 210.82 123.19 0)
 			(effects
 				(font
@@ -14263,7 +14262,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 66.04 123.19 0)
 			(effects
 				(font
@@ -14323,7 +14322,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8e7a6803-f1ae-4d7c-a182-26cab31fbef0")
-		(property "Reference" "#PWR095"
+		(property "Reference" "#PWR0102"
 			(at 281.94 111.76 0)
 			(effects
 				(font
@@ -14373,7 +14372,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR095")
+					(reference "#PWR0102")
 					(unit 1)
 				)
 			)
@@ -14390,7 +14389,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8ea0502c-1269-43b1-8d0d-f089d305453a")
-		(property "Reference" "#PWR0201"
+		(property "Reference" "#PWR0208"
 			(at 257.81 195.58 0)
 			(effects
 				(font
@@ -14440,7 +14439,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0201")
+					(reference "#PWR0208")
 					(unit 1)
 				)
 			)
@@ -14473,7 +14472,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 304.8 95.25 0)
 			(effects
 				(font
@@ -14549,7 +14548,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 283.21 179.07 0)
 			(effects
 				(font
@@ -14610,7 +14609,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "91f87dbd-4249-4dd8-8452-f81600325ad1")
-		(property "Reference" "#PWR0216"
+		(property "Reference" "#PWR0223"
 			(at 185.42 213.36 0)
 			(effects
 				(font
@@ -14660,7 +14659,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0216")
+					(reference "#PWR0223")
 					(unit 1)
 				)
 			)
@@ -14676,7 +14675,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "93fd3eaf-ef09-4bf5-aa08-059f2d3ed16c")
-		(property "Reference" "#PWR029"
+		(property "Reference" "#PWR036"
 			(at 185.42 73.66 0)
 			(effects
 				(font
@@ -14726,7 +14725,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR029")
+					(reference "#PWR036")
 					(unit 1)
 				)
 			)
@@ -14743,7 +14742,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9484bcf6-6639-4cde-ae18-68a6dc875b0a")
-		(property "Reference" "#PWR058"
+		(property "Reference" "#PWR065"
 			(at 402.59 83.82 0)
 			(effects
 				(font
@@ -14793,7 +14792,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR058")
+					(reference "#PWR065")
 					(unit 1)
 				)
 			)
@@ -14825,7 +14824,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 452.12 123.19 0)
 			(effects
 				(font
@@ -14886,7 +14885,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "97135942-e91e-41f4-a290-0b5a109e0ead")
-		(property "Reference" "#PWR056"
+		(property "Reference" "#PWR063"
 			(at 354.33 83.82 0)
 			(effects
 				(font
@@ -14936,7 +14935,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR056")
+					(reference "#PWR063")
 					(unit 1)
 				)
 			)
@@ -14968,7 +14967,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 210.82 179.07 0)
 			(effects
 				(font
@@ -15029,7 +15028,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "99c19106-1337-4d0c-8532-69c699b1f559")
-		(property "Reference" "#PWR076"
+		(property "Reference" "#PWR083"
 			(at 330.2 101.6 0)
 			(effects
 				(font
@@ -15079,7 +15078,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR076")
+					(reference "#PWR083")
 					(unit 1)
 				)
 			)
@@ -15096,7 +15095,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9b11b735-2d74-495a-bc73-af2434b4a4ce")
-		(property "Reference" "#PWR0222"
+		(property "Reference" "#PWR0229"
 			(at 330.2 213.36 0)
 			(effects
 				(font
@@ -15146,7 +15145,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0222")
+					(reference "#PWR0229")
 					(unit 1)
 				)
 			)
@@ -15163,7 +15162,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9b88447b-c43a-4c4a-a897-bcb5f196d7e3")
-		(property "Reference" "#PWR0224"
+		(property "Reference" "#PWR0231"
 			(at 378.46 213.36 0)
 			(effects
 				(font
@@ -15213,7 +15212,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0224")
+					(reference "#PWR0231")
 					(unit 1)
 				)
 			)
@@ -15230,7 +15229,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9cbcaf1f-4968-403e-8e8b-0a04b94bc67a")
-		(property "Reference" "#PWR0225"
+		(property "Reference" "#PWR0232"
 			(at 402.59 213.36 0)
 			(effects
 				(font
@@ -15280,7 +15279,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0225")
+					(reference "#PWR0232")
 					(unit 1)
 				)
 			)
@@ -15297,7 +15296,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9de571f5-6cac-4d2e-a08d-42c12b36d2ac")
-		(property "Reference" "#PWR060"
+		(property "Reference" "#PWR067"
 			(at 450.85 83.82 0)
 			(effects
 				(font
@@ -15347,7 +15346,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR060")
+					(reference "#PWR067")
 					(unit 1)
 				)
 			)
@@ -15379,7 +15378,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 307.34 179.07 0)
 			(effects
 				(font
@@ -15456,7 +15455,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 87.63 95.25 0)
 			(effects
 				(font
@@ -15516,7 +15515,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9fe64d08-e145-4b82-97fd-cdc516e0f48c")
-		(property "Reference" "#PWR0166"
+		(property "Reference" "#PWR0173"
 			(at 257.81 167.64 0)
 			(effects
 				(font
@@ -15566,7 +15565,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0166")
+					(reference "#PWR0173")
 					(unit 1)
 				)
 			)
@@ -15598,7 +15597,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 66.04 179.07 0)
 			(effects
 				(font
@@ -15674,7 +15673,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 331.47 67.31 0)
 			(effects
 				(font
@@ -15735,7 +15734,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a1e7c436-ed27-422b-b31c-e191f4b630e9")
-		(property "Reference" "#PWR0130"
+		(property "Reference" "#PWR0137"
 			(at 209.55 139.7 0)
 			(effects
 				(font
@@ -15785,7 +15784,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0130")
+					(reference "#PWR0137")
 					(unit 1)
 				)
 			)
@@ -15801,7 +15800,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a22958c1-0a39-4bb4-acb5-d764bfc5c9c9")
-		(property "Reference" "#PWR016"
+		(property "Reference" "#PWR023"
 			(at 354.33 55.88 0)
 			(effects
 				(font
@@ -15851,7 +15850,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR016")
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
@@ -15868,7 +15867,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a273c409-5e64-4c11-91fa-ffd8723e4cb0")
-		(property "Reference" "#PWR082"
+		(property "Reference" "#PWR089"
 			(at 474.98 101.6 0)
 			(effects
 				(font
@@ -15918,7 +15917,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR082")
+					(reference "#PWR089")
 					(unit 1)
 				)
 			)
@@ -15934,7 +15933,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a3369915-bf1d-4481-8a61-1c07eba3b084")
-		(property "Reference" "#PWR094"
+		(property "Reference" "#PWR0101"
 			(at 257.81 111.76 0)
 			(effects
 				(font
@@ -15984,7 +15983,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR094")
+					(reference "#PWR0101")
 					(unit 1)
 				)
 			)
@@ -16001,7 +16000,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a36bc8e9-0dd1-4818-bf58-2bd4ce0dfddf")
-		(property "Reference" "#PWR0206"
+		(property "Reference" "#PWR0213"
 			(at 378.46 195.58 0)
 			(effects
 				(font
@@ -16051,7 +16050,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0206")
+					(reference "#PWR0213")
 					(unit 1)
 				)
 			)
@@ -16067,7 +16066,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a3872b19-32e2-42cf-b1a1-c53ea7e4cd46")
-		(property "Reference" "#PWR0101"
+		(property "Reference" "#PWR0108"
 			(at 426.72 111.76 0)
 			(effects
 				(font
@@ -16117,7 +16116,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0101")
+					(reference "#PWR0108")
 					(unit 1)
 				)
 			)
@@ -16134,7 +16133,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a3c4fb38-673d-41b2-9fae-a399a9a04969")
-		(property "Reference" "#PWR0200"
+		(property "Reference" "#PWR0207"
 			(at 233.68 195.58 0)
 			(effects
 				(font
@@ -16184,7 +16183,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0200")
+					(reference "#PWR0207")
 					(unit 1)
 				)
 			)
@@ -16200,7 +16199,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a44959e8-3485-4863-900b-c31dfe984429")
-		(property "Reference" "#PWR0113"
+		(property "Reference" "#PWR0120"
 			(at 209.55 129.54 0)
 			(effects
 				(font
@@ -16250,7 +16249,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0113")
+					(reference "#PWR0120")
 					(unit 1)
 				)
 			)
@@ -16266,7 +16265,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a4ed8a07-4582-491d-afc9-9683bfbfbc12")
-		(property "Reference" "#PWR03"
+		(property "Reference" "#PWR010"
 			(at 40.64 55.88 0)
 			(effects
 				(font
@@ -16316,7 +16315,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR03")
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -16333,7 +16332,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a6155c51-79c5-45b2-b824-7916bf50a14a")
-		(property "Reference" "#PWR0150"
+		(property "Reference" "#PWR0157"
 			(at 306.07 157.48 0)
 			(effects
 				(font
@@ -16383,7 +16382,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0150")
+					(reference "#PWR0157")
 					(unit 1)
 				)
 			)
@@ -16399,7 +16398,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a639694b-5e59-460e-9b5a-4adc0f644571")
-		(property "Reference" "#PWR096"
+		(property "Reference" "#PWR0103"
 			(at 306.07 111.76 0)
 			(effects
 				(font
@@ -16449,7 +16448,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR096")
+					(reference "#PWR0103")
 					(unit 1)
 				)
 			)
@@ -16465,7 +16464,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a66fd565-e3c2-49a6-8f5b-6fa57dd91bd4")
-		(property "Reference" "#PWR0171"
+		(property "Reference" "#PWR0178"
 			(at 378.46 167.64 0)
 			(effects
 				(font
@@ -16515,7 +16514,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0171")
+					(reference "#PWR0178")
 					(unit 1)
 				)
 			)
@@ -16531,7 +16530,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a6a8cc60-c03e-4ace-b180-b9f11065d46c")
-		(property "Reference" "#PWR0179"
+		(property "Reference" "#PWR0186"
 			(at 113.03 185.42 0)
 			(effects
 				(font
@@ -16581,7 +16580,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0179")
+					(reference "#PWR0186")
 					(unit 1)
 				)
 			)
@@ -16613,7 +16612,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 403.86 123.19 0)
 			(effects
 				(font
@@ -16673,7 +16672,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a79a3656-7411-4dc3-9cc3-0852343b34ce")
-		(property "Reference" "#PWR0100"
+		(property "Reference" "#PWR0107"
 			(at 402.59 111.76 0)
 			(effects
 				(font
@@ -16723,7 +16722,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0100")
+					(reference "#PWR0107")
 					(unit 1)
 				)
 			)
@@ -16755,7 +16754,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 283.21 123.19 0)
 			(effects
 				(font
@@ -16815,7 +16814,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a84c01f0-4f4b-4592-a966-679acc9ca0b0")
-		(property "Reference" "#PWR0106"
+		(property "Reference" "#PWR0113"
 			(at 40.64 129.54 0)
 			(effects
 				(font
@@ -16865,7 +16864,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0106")
+					(reference "#PWR0113")
 					(unit 1)
 				)
 			)
@@ -16882,7 +16881,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a85db647-3dfd-49f0-af47-fb333e9d3437")
-		(property "Reference" "#PWR049"
+		(property "Reference" "#PWR056"
 			(at 185.42 83.82 0)
 			(effects
 				(font
@@ -16932,7 +16931,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR049")
+					(reference "#PWR056")
 					(unit 1)
 				)
 			)
@@ -16949,7 +16948,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a97c3d77-1ed6-4461-bcf0-c3de6c817e59")
-		(property "Reference" "#PWR0228"
+		(property "Reference" "#PWR0235"
 			(at 474.98 213.36 0)
 			(effects
 				(font
@@ -16999,7 +16998,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0228")
+					(reference "#PWR0235")
 					(unit 1)
 				)
 			)
@@ -17032,7 +17031,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 328.93 151.13 0)
 			(effects
 				(font
@@ -17092,7 +17091,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "abf09a28-b03b-4133-8fe6-9f28e5529360")
-		(property "Reference" "#PWR037"
+		(property "Reference" "#PWR044"
 			(at 378.46 73.66 0)
 			(effects
 				(font
@@ -17142,7 +17141,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR037")
+					(reference "#PWR044")
 					(unit 1)
 				)
 			)
@@ -17175,7 +17174,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 160.02 207.01 0)
 			(effects
 				(font
@@ -17251,7 +17250,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 259.08 179.07 0)
 			(effects
 				(font
@@ -17312,7 +17311,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "adb5b52b-12b8-49f8-8316-d310fe0849a5")
-		(property "Reference" "#PWR0219"
+		(property "Reference" "#PWR0226"
 			(at 257.81 213.36 0)
 			(effects
 				(font
@@ -17362,7 +17361,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0219")
+					(reference "#PWR0226")
 					(unit 1)
 				)
 			)
@@ -17394,7 +17393,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 162.56 123.19 0)
 			(effects
 				(font
@@ -17471,7 +17470,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 111.76 95.25 0)
 			(effects
 				(font
@@ -17547,7 +17546,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 162.56 67.31 0)
 			(effects
 				(font
@@ -17607,7 +17606,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "aef5deed-6593-4a14-bc73-4f0ac3d8ddf9")
-		(property "Reference" "#PWR0122"
+		(property "Reference" "#PWR0129"
 			(at 426.72 129.54 0)
 			(effects
 				(font
@@ -17657,7 +17656,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0122")
+					(reference "#PWR0129")
 					(unit 1)
 				)
 			)
@@ -17673,7 +17672,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "afd17a7a-c6f5-4463-b354-a3bc9a69d53f")
-		(property "Reference" "#PWR0123"
+		(property "Reference" "#PWR0130"
 			(at 450.85 129.54 0)
 			(effects
 				(font
@@ -17723,7 +17722,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0123")
+					(reference "#PWR0130")
 					(unit 1)
 				)
 			)
@@ -17755,7 +17754,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 355.6 123.19 0)
 			(effects
 				(font
@@ -17815,7 +17814,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b04763b6-383b-4eec-ae07-8b6506584846")
-		(property "Reference" "#PWR0169"
+		(property "Reference" "#PWR0176"
 			(at 330.2 167.64 0)
 			(effects
 				(font
@@ -17865,7 +17864,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0169")
+					(reference "#PWR0176")
 					(unit 1)
 				)
 			)
@@ -17882,7 +17881,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b0a92d60-516f-4592-8e5d-28d0eda754f8")
-		(property "Reference" "#PWR047"
+		(property "Reference" "#PWR054"
 			(at 137.16 83.82 0)
 			(effects
 				(font
@@ -17932,7 +17931,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR047")
+					(reference "#PWR054")
 					(unit 1)
 				)
 			)
@@ -17965,7 +17964,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 256.54 151.13 0)
 			(effects
 				(font
@@ -18041,7 +18040,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 500.38 67.31 0)
 			(effects
 				(font
@@ -18102,7 +18101,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b2e750a0-99f4-4ef0-a10b-b4c1437aa065")
-		(property "Reference" "#PWR048"
+		(property "Reference" "#PWR055"
 			(at 161.29 83.82 0)
 			(effects
 				(font
@@ -18152,7 +18151,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR048")
+					(reference "#PWR055")
 					(unit 1)
 				)
 			)
@@ -18168,7 +18167,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b38e87d2-04d7-49ff-9efc-dd0e1570bba0")
-		(property "Reference" "#PWR0174"
+		(property "Reference" "#PWR0181"
 			(at 450.85 167.64 0)
 			(effects
 				(font
@@ -18218,7 +18217,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0174")
+					(reference "#PWR0181")
 					(unit 1)
 				)
 			)
@@ -18250,7 +18249,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 427.99 67.31 0)
 			(effects
 				(font
@@ -18310,7 +18309,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b487d9b7-4540-428d-8b79-dbee704201a3")
-		(property "Reference" "#PWR031"
+		(property "Reference" "#PWR038"
 			(at 233.68 73.66 0)
 			(effects
 				(font
@@ -18360,7 +18359,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR031")
+					(reference "#PWR038")
 					(unit 1)
 				)
 			)
@@ -18392,7 +18391,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 114.3 179.07 0)
 			(effects
 				(font
@@ -18453,7 +18452,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b64e0082-24cc-4eba-95ea-5623a87fd877")
-		(property "Reference" "#PWR084"
+		(property "Reference" "#PWR091"
 			(at 523.24 101.6 0)
 			(effects
 				(font
@@ -18503,7 +18502,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR084")
+					(reference "#PWR091")
 					(unit 1)
 				)
 			)
@@ -18520,7 +18519,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b914af71-a618-4905-adac-0413659fc50d")
-		(property "Reference" "#PWR059"
+		(property "Reference" "#PWR066"
 			(at 426.72 83.82 0)
 			(effects
 				(font
@@ -18570,7 +18569,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR059")
+					(reference "#PWR066")
 					(unit 1)
 				)
 			)
@@ -18602,7 +18601,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 210.82 67.31 0)
 			(effects
 				(font
@@ -18678,7 +18677,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 90.17 179.07 0)
 			(effects
 				(font
@@ -18755,7 +18754,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 63.5 95.25 0)
 			(effects
 				(font
@@ -18831,7 +18830,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 403.86 179.07 0)
 			(effects
 				(font
@@ -18908,7 +18907,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 304.8 207.01 0)
 			(effects
 				(font
@@ -18968,7 +18967,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bbe4f1db-7b31-4e35-828a-a71706605939")
-		(property "Reference" "#PWR092"
+		(property "Reference" "#PWR099"
 			(at 209.55 111.76 0)
 			(effects
 				(font
@@ -19018,7 +19017,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR092")
+					(reference "#PWR099")
 					(unit 1)
 				)
 			)
@@ -19034,7 +19033,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bc48d7c3-dc96-4de9-a483-caaa47dd3b16")
-		(property "Reference" "#PWR0187"
+		(property "Reference" "#PWR0194"
 			(at 330.2 185.42 0)
 			(effects
 				(font
@@ -19084,7 +19083,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0187")
+					(reference "#PWR0194")
 					(unit 1)
 				)
 			)
@@ -19100,7 +19099,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bc82669f-20b4-431e-8e57-8a08b6b96dfb")
-		(property "Reference" "#PWR099"
+		(property "Reference" "#PWR0106"
 			(at 378.46 111.76 0)
 			(effects
 				(font
@@ -19150,7 +19149,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR099")
+					(reference "#PWR0106")
 					(unit 1)
 				)
 			)
@@ -19167,7 +19166,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bce19254-78f4-4677-bac5-241956ef2214")
-		(property "Reference" "#PWR0218"
+		(property "Reference" "#PWR0225"
 			(at 233.68 213.36 0)
 			(effects
 				(font
@@ -19217,7 +19216,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0218")
+					(reference "#PWR0225")
 					(unit 1)
 				)
 			)
@@ -19249,7 +19248,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 355.6 179.07 0)
 			(effects
 				(font
@@ -19309,7 +19308,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bd87105a-9c16-4fb2-a3be-381b11ffb418")
-		(property "Reference" "#PWR098"
+		(property "Reference" "#PWR0105"
 			(at 354.33 111.76 0)
 			(effects
 				(font
@@ -19359,7 +19358,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR098")
+					(reference "#PWR0105")
 					(unit 1)
 				)
 			)
@@ -19375,7 +19374,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "be96551e-eec6-439b-815c-2f849ecf47ed")
-		(property "Reference" "#PWR042"
+		(property "Reference" "#PWR049"
 			(at 499.11 73.66 0)
 			(effects
 				(font
@@ -19425,7 +19424,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR042")
+					(reference "#PWR049")
 					(unit 1)
 				)
 			)
@@ -19458,7 +19457,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 39.37 207.01 0)
 			(effects
 				(font
@@ -19518,7 +19517,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bf6998f7-b2a9-4dd9-97fe-ffa1938fc1ea")
-		(property "Reference" "#PWR023"
+		(property "Reference" "#PWR030"
 			(at 40.64 73.66 0)
 			(effects
 				(font
@@ -19568,7 +19567,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR023")
+					(reference "#PWR030")
 					(unit 1)
 				)
 			)
@@ -19584,7 +19583,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bfdd6ce4-9378-4c39-a770-48bafc87013b")
-		(property "Reference" "#PWR012"
+		(property "Reference" "#PWR019"
 			(at 257.81 55.88 0)
 			(effects
 				(font
@@ -19634,7 +19633,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR012")
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -19651,7 +19650,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c044c86c-e0ea-4711-b2e6-1b3c55a32244")
-		(property "Reference" "#PWR0145"
+		(property "Reference" "#PWR0152"
 			(at 88.9 157.48 0)
 			(effects
 				(font
@@ -19701,7 +19700,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0145")
+					(reference "#PWR0152")
 					(unit 1)
 				)
 			)
@@ -19735,7 +19734,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 135.89 207.01 0)
 			(effects
 				(font
@@ -19796,7 +19795,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c0d3f288-1fb2-4f29-8ce4-ff48640e981b")
-		(property "Reference" "#PWR077"
+		(property "Reference" "#PWR084"
 			(at 354.33 101.6 0)
 			(effects
 				(font
@@ -19846,7 +19845,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR077")
+					(reference "#PWR084")
 					(unit 1)
 				)
 			)
@@ -19879,7 +19878,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 39.37 151.13 0)
 			(effects
 				(font
@@ -19940,7 +19939,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c27f712a-f731-4689-a260-328c7fb9ee20")
-		(property "Reference" "#PWR0133"
+		(property "Reference" "#PWR0140"
 			(at 281.94 139.7 0)
 			(effects
 				(font
@@ -19990,7 +19989,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0133")
+					(reference "#PWR0140")
 					(unit 1)
 				)
 			)
@@ -20023,7 +20022,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 232.41 95.25 0)
 			(effects
 				(font
@@ -20083,7 +20082,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c2919abd-69bb-4381-bd33-fee9586572f8")
-		(property "Reference" "#PWR0107"
+		(property "Reference" "#PWR0114"
 			(at 64.77 129.54 0)
 			(effects
 				(font
@@ -20133,7 +20132,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0107")
+					(reference "#PWR0114")
 					(unit 1)
 				)
 			)
@@ -20149,7 +20148,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c361f777-fae3-429e-9872-cf3f896acba9")
-		(property "Reference" "#PWR034"
+		(property "Reference" "#PWR041"
 			(at 306.07 73.66 0)
 			(effects
 				(font
@@ -20199,7 +20198,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR034")
+					(reference "#PWR041")
 					(unit 1)
 				)
 			)
@@ -20216,7 +20215,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c3b6c892-c52e-420c-b9f6-b60bc225a2bc")
-		(property "Reference" "#PWR0194"
+		(property "Reference" "#PWR0201"
 			(at 40.64 195.58 0)
 			(effects
 				(font
@@ -20266,7 +20265,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0194")
+					(reference "#PWR0201")
 					(unit 1)
 				)
 			)
@@ -20299,7 +20298,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 473.71 95.25 0)
 			(effects
 				(font
@@ -20359,7 +20358,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c492e227-8d6a-4b3e-bc1d-90937b84af05")
-		(property "Reference" "#PWR0189"
+		(property "Reference" "#PWR0196"
 			(at 378.46 185.42 0)
 			(effects
 				(font
@@ -20409,7 +20408,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0189")
+					(reference "#PWR0196")
 					(unit 1)
 				)
 			)
@@ -20425,7 +20424,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c566f53e-e4f5-4e3d-816c-f958e22dd96c")
-		(property "Reference" "#PWR0103"
+		(property "Reference" "#PWR0110"
 			(at 474.98 111.76 0)
 			(effects
 				(font
@@ -20475,7 +20474,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0103")
+					(reference "#PWR0110")
 					(unit 1)
 				)
 			)
@@ -20492,7 +20491,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c625e507-abf3-4bdb-a29d-2c95e4b5de34")
-		(property "Reference" "#PWR0196"
+		(property "Reference" "#PWR0203"
 			(at 137.16 195.58 0)
 			(effects
 				(font
@@ -20542,7 +20541,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0196")
+					(reference "#PWR0203")
 					(unit 1)
 				)
 			)
@@ -20558,7 +20557,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c6444cba-e63e-4b62-90ab-0cdba7792b38")
-		(property "Reference" "#PWR014"
+		(property "Reference" "#PWR021"
 			(at 306.07 55.88 0)
 			(effects
 				(font
@@ -20608,7 +20607,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR014")
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -20641,7 +20640,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 256.54 95.25 0)
 			(effects
 				(font
@@ -20718,7 +20717,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 232.41 207.01 0)
 			(effects
 				(font
@@ -20778,7 +20777,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c8eb49c7-e02a-496d-88f9-ce0e5a1de8b4")
-		(property "Reference" "#PWR0191"
+		(property "Reference" "#PWR0198"
 			(at 426.72 185.42 0)
 			(effects
 				(font
@@ -20828,7 +20827,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0191")
+					(reference "#PWR0198")
 					(unit 1)
 				)
 			)
@@ -20845,7 +20844,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ca226e15-66a1-45f5-8ccb-1f5195b389cd")
-		(property "Reference" "#PWR072"
+		(property "Reference" "#PWR079"
 			(at 233.68 101.6 0)
 			(effects
 				(font
@@ -20895,7 +20894,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR072")
+					(reference "#PWR079")
 					(unit 1)
 				)
 			)
@@ -20911,7 +20910,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ca6f8d23-3d7a-413c-a193-d8d3c4a6c282")
-		(property "Reference" "#PWR04"
+		(property "Reference" "#PWR011"
 			(at 64.77 55.88 0)
 			(effects
 				(font
@@ -20961,7 +20960,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR04")
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
@@ -20977,7 +20976,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cb45ac26-b26e-4401-9e42-f0b678a07866")
-		(property "Reference" "#PWR0121"
+		(property "Reference" "#PWR0128"
 			(at 402.59 129.54 0)
 			(effects
 				(font
@@ -21027,7 +21026,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0121")
+					(reference "#PWR0128")
 					(unit 1)
 				)
 			)
@@ -21060,7 +21059,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 473.71 207.01 0)
 			(effects
 				(font
@@ -21137,7 +21136,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 449.58 95.25 0)
 			(effects
 				(font
@@ -21197,7 +21196,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cf6e62ef-94d9-43b6-85ca-322d4755ef0e")
-		(property "Reference" "#PWR05"
+		(property "Reference" "#PWR012"
 			(at 88.9 55.88 0)
 			(effects
 				(font
@@ -21247,7 +21246,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR05")
+					(reference "#PWR012")
 					(unit 1)
 				)
 			)
@@ -21263,7 +21262,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d042bc75-8542-45b4-8718-d01a7c236f2b")
-		(property "Reference" "#PWR010"
+		(property "Reference" "#PWR017"
 			(at 209.55 55.88 0)
 			(effects
 				(font
@@ -21313,7 +21312,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR010")
+					(reference "#PWR017")
 					(unit 1)
 				)
 			)
@@ -21330,7 +21329,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d321591d-8a38-4824-8e11-f373eaadadd7")
-		(property "Reference" "#PWR067"
+		(property "Reference" "#PWR074"
 			(at 113.03 101.6 0)
 			(effects
 				(font
@@ -21380,7 +21379,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR067")
+					(reference "#PWR074")
 					(unit 1)
 				)
 			)
@@ -21397,7 +21396,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d3547710-8a96-408d-960d-70551775922d")
-		(property "Reference" "#PWR0138"
+		(property "Reference" "#PWR0145"
 			(at 402.59 139.7 0)
 			(effects
 				(font
@@ -21447,7 +21446,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0138")
+					(reference "#PWR0145")
 					(unit 1)
 				)
 			)
@@ -21463,7 +21462,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d3a8715a-0105-44ba-b3e0-d3516f0a44a8")
-		(property "Reference" "#PWR0115"
+		(property "Reference" "#PWR0122"
 			(at 257.81 129.54 0)
 			(effects
 				(font
@@ -21513,7 +21512,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0115")
+					(reference "#PWR0122")
 					(unit 1)
 				)
 			)
@@ -21546,7 +21545,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 160.02 95.25 0)
 			(effects
 				(font
@@ -21623,7 +21622,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 208.28 207.01 0)
 			(effects
 				(font
@@ -21683,7 +21682,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d41d19d7-c1f8-4ccc-8873-89dca0e5c32f")
-		(property "Reference" "#PWR0176"
+		(property "Reference" "#PWR0183"
 			(at 40.64 185.42 0)
 			(effects
 				(font
@@ -21733,7 +21732,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0176")
+					(reference "#PWR0183")
 					(unit 1)
 				)
 			)
@@ -21750,7 +21749,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d4f2f410-6c54-4b62-bbfc-d4c42df50267")
-		(property "Reference" "#PWR0207"
+		(property "Reference" "#PWR0214"
 			(at 402.59 195.58 0)
 			(effects
 				(font
@@ -21800,7 +21799,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0207")
+					(reference "#PWR0214")
 					(unit 1)
 				)
 			)
@@ -21816,7 +21815,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d6b0312a-1ce8-423a-8396-86526c8c9306")
-		(property "Reference" "#PWR0119"
+		(property "Reference" "#PWR0126"
 			(at 354.33 129.54 0)
 			(effects
 				(font
@@ -21866,7 +21865,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0119")
+					(reference "#PWR0126")
 					(unit 1)
 				)
 			)
@@ -21898,7 +21897,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 427.99 123.19 0)
 			(effects
 				(font
@@ -21975,7 +21974,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 304.8 151.13 0)
 			(effects
 				(font
@@ -22036,7 +22035,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "da247986-0cfc-439b-b8d3-c5ff72058a6d")
-		(property "Reference" "#PWR0202"
+		(property "Reference" "#PWR0209"
 			(at 281.94 195.58 0)
 			(effects
 				(font
@@ -22086,7 +22085,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0202")
+					(reference "#PWR0209")
 					(unit 1)
 				)
 			)
@@ -22102,7 +22101,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "da4e6e71-2fea-4ddf-b22e-7fd6cbd01699")
-		(property "Reference" "#PWR07"
+		(property "Reference" "#PWR014"
 			(at 137.16 55.88 0)
 			(effects
 				(font
@@ -22152,7 +22151,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR07")
+					(reference "#PWR014")
 					(unit 1)
 				)
 			)
@@ -22168,7 +22167,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "db52924c-e628-47c9-b2f7-55ebe80c076c")
-		(property "Reference" "#PWR0188"
+		(property "Reference" "#PWR0195"
 			(at 354.33 185.42 0)
 			(effects
 				(font
@@ -22218,7 +22217,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0188")
+					(reference "#PWR0195")
 					(unit 1)
 				)
 			)
@@ -22234,7 +22233,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dc5db742-7b89-4532-8db0-ea1d1ee3c219")
-		(property "Reference" "#PWR0160"
+		(property "Reference" "#PWR0167"
 			(at 64.77 167.64 0)
 			(effects
 				(font
@@ -22284,7 +22283,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0160")
+					(reference "#PWR0167")
 					(unit 1)
 				)
 			)
@@ -22301,7 +22300,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dd5e1fdf-fab6-436f-8307-e6a26adb0fc4")
-		(property "Reference" "#PWR0227"
+		(property "Reference" "#PWR0234"
 			(at 450.85 213.36 0)
 			(effects
 				(font
@@ -22351,7 +22350,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0227")
+					(reference "#PWR0234")
 					(unit 1)
 				)
 			)
@@ -22383,7 +22382,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 186.69 123.19 0)
 			(effects
 				(font
@@ -22443,7 +22442,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dd8b13ab-21e3-4140-ab49-23c45f283e1b")
-		(property "Reference" "#PWR0114"
+		(property "Reference" "#PWR0121"
 			(at 233.68 129.54 0)
 			(effects
 				(font
@@ -22493,7 +22492,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0114")
+					(reference "#PWR0121")
 					(unit 1)
 				)
 			)
@@ -22510,7 +22509,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dd919cb1-a18a-426d-a587-824cb214f4ab")
-		(property "Reference" "#PWR074"
+		(property "Reference" "#PWR081"
 			(at 281.94 101.6 0)
 			(effects
 				(font
@@ -22560,7 +22559,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR074")
+					(reference "#PWR081")
 					(unit 1)
 				)
 			)
@@ -22576,7 +22575,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ddc15fe9-f33b-478b-a8c3-a91ed3fd802f")
-		(property "Reference" "#PWR0170"
+		(property "Reference" "#PWR0177"
 			(at 354.33 167.64 0)
 			(effects
 				(font
@@ -22626,7 +22625,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0170")
+					(reference "#PWR0177")
 					(unit 1)
 				)
 			)
@@ -22659,7 +22658,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 497.84 151.13 0)
 			(effects
 				(font
@@ -22737,7 +22736,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 476.25 179.07 0)
 			(effects
 				(font
@@ -22814,7 +22813,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 497.84 207.01 0)
 			(effects
 				(font
@@ -22875,7 +22874,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e1806c50-ce41-42db-900e-4b5f990dd039")
-		(property "Reference" "#PWR0153"
+		(property "Reference" "#PWR0160"
 			(at 378.46 157.48 0)
 			(effects
 				(font
@@ -22925,7 +22924,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0153")
+					(reference "#PWR0160")
 					(unit 1)
 				)
 			)
@@ -22942,7 +22941,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e34a4f82-ff89-4625-9bd4-e3f968e343c4")
-		(property "Reference" "#PWR070"
+		(property "Reference" "#PWR077"
 			(at 185.42 101.6 0)
 			(effects
 				(font
@@ -22992,7 +22991,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR070")
+					(reference "#PWR077")
 					(unit 1)
 				)
 			)
@@ -23008,7 +23007,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e42b7c4d-66d2-4871-a21a-5d690427af75")
-		(property "Reference" "#PWR0168"
+		(property "Reference" "#PWR0175"
 			(at 306.07 167.64 0)
 			(effects
 				(font
@@ -23058,7 +23057,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0168")
+					(reference "#PWR0175")
 					(unit 1)
 				)
 			)
@@ -23075,7 +23074,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e4311fb6-43bf-4f8e-94d5-2089aaf75fec")
-		(property "Reference" "#PWR0212"
+		(property "Reference" "#PWR0219"
 			(at 40.64 213.36 0)
 			(effects
 				(font
@@ -23125,7 +23124,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0212")
+					(reference "#PWR0219")
 					(unit 1)
 				)
 			)
@@ -23142,7 +23141,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e636cc45-ea46-4b5d-be12-07a1363cb727")
-		(property "Reference" "#PWR0215"
+		(property "Reference" "#PWR0222"
 			(at 161.29 213.36 0)
 			(effects
 				(font
@@ -23192,7 +23191,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0215")
+					(reference "#PWR0222")
 					(unit 1)
 				)
 			)
@@ -23209,7 +23208,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e6d9c959-a8c0-4eac-8906-ba4eee2f3803")
-		(property "Reference" "#PWR066"
+		(property "Reference" "#PWR073"
 			(at 88.9 101.6 0)
 			(effects
 				(font
@@ -23259,7 +23258,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR066")
+					(reference "#PWR073")
 					(unit 1)
 				)
 			)
@@ -23276,7 +23275,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e70a482a-70dd-4860-8614-808274d3e2fa")
-		(property "Reference" "#PWR046"
+		(property "Reference" "#PWR053"
 			(at 113.03 83.82 0)
 			(effects
 				(font
@@ -23326,7 +23325,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR046")
+					(reference "#PWR053")
 					(unit 1)
 				)
 			)
@@ -23343,7 +23342,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e806576c-cb0c-4ad5-a1ff-8b0d5ea8528a")
-		(property "Reference" "#PWR064"
+		(property "Reference" "#PWR071"
 			(at 40.64 101.6 0)
 			(effects
 				(font
@@ -23393,7 +23392,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR064")
+					(reference "#PWR071")
 					(unit 1)
 				)
 			)
@@ -23409,7 +23408,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e81b7fce-278b-4a03-8ecb-e6dd8bfb2145")
-		(property "Reference" "#PWR0109"
+		(property "Reference" "#PWR0116"
 			(at 113.03 129.54 0)
 			(effects
 				(font
@@ -23459,7 +23458,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0109")
+					(reference "#PWR0116")
 					(unit 1)
 				)
 			)
@@ -23475,7 +23474,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e84d7200-32ae-4c14-9647-878b31bd60f6")
-		(property "Reference" "#PWR0163"
+		(property "Reference" "#PWR0170"
 			(at 161.29 167.64 0)
 			(effects
 				(font
@@ -23525,7 +23524,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0163")
+					(reference "#PWR0170")
 					(unit 1)
 				)
 			)
@@ -23541,7 +23540,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e863587f-43aa-4d93-9303-6cecaed9584a")
-		(property "Reference" "#PWR087"
+		(property "Reference" "#PWR094"
 			(at 88.9 111.76 0)
 			(effects
 				(font
@@ -23591,7 +23590,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR087")
+					(reference "#PWR094")
 					(unit 1)
 				)
 			)
@@ -23623,7 +23622,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 138.43 123.19 0)
 			(effects
 				(font
@@ -23683,7 +23682,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e98e7910-2ace-4a27-ac35-d7f188a481f6")
-		(property "Reference" "#PWR089"
+		(property "Reference" "#PWR096"
 			(at 137.16 111.76 0)
 			(effects
 				(font
@@ -23733,7 +23732,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR089")
+					(reference "#PWR096")
 					(unit 1)
 				)
 			)
@@ -23765,7 +23764,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 500.38 123.19 0)
 			(effects
 				(font
@@ -23825,7 +23824,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ea0539d9-fa06-4fbe-908d-cb78e84c5ee2")
-		(property "Reference" "#PWR0172"
+		(property "Reference" "#PWR0179"
 			(at 402.59 167.64 0)
 			(effects
 				(font
@@ -23875,7 +23874,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0172")
+					(reference "#PWR0179")
 					(unit 1)
 				)
 			)
@@ -23891,7 +23890,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ead1aacf-6fc9-4a8c-aa55-0df5aaa97c85")
-		(property "Reference" "#PWR040"
+		(property "Reference" "#PWR047"
 			(at 450.85 73.66 0)
 			(effects
 				(font
@@ -23941,7 +23940,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR040")
+					(reference "#PWR047")
 					(unit 1)
 				)
 			)
@@ -23957,7 +23956,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "eb8b900d-805e-457d-8bf7-c7848e438807")
-		(property "Reference" "#PWR020"
+		(property "Reference" "#PWR027"
 			(at 450.85 55.88 0)
 			(effects
 				(font
@@ -24007,7 +24006,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR020")
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
@@ -24023,7 +24022,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ebc7735d-a7cb-4731-b893-2ba6e9895f8c")
-		(property "Reference" "#PWR015"
+		(property "Reference" "#PWR022"
 			(at 330.2 55.88 0)
 			(effects
 				(font
@@ -24073,7 +24072,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR015")
+					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -24090,7 +24089,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ebd137bf-1a7d-49c6-8e91-0b52813f88c4")
-		(property "Reference" "#PWR0144"
+		(property "Reference" "#PWR0151"
 			(at 64.77 157.48 0)
 			(effects
 				(font
@@ -24140,7 +24139,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0144")
+					(reference "#PWR0151")
 					(unit 1)
 				)
 			)
@@ -24156,7 +24155,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ec5f68da-9f83-4abe-a944-98980f2a74af")
-		(property "Reference" "#PWR06"
+		(property "Reference" "#PWR013"
 			(at 113.03 55.88 0)
 			(effects
 				(font
@@ -24206,7 +24205,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR06")
+					(reference "#PWR013")
 					(unit 1)
 				)
 			)
@@ -24222,7 +24221,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ed335a22-bed9-47e1-9197-8f9caf8eedd0")
-		(property "Reference" "#PWR0126"
+		(property "Reference" "#PWR0133"
 			(at 523.24 129.54 0)
 			(effects
 				(font
@@ -24272,7 +24271,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0126")
+					(reference "#PWR0133")
 					(unit 1)
 				)
 			)
@@ -24289,7 +24288,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ef916e72-cd36-4017-88e3-408fce398508")
-		(property "Reference" "#PWR0127"
+		(property "Reference" "#PWR0134"
 			(at 40.64 139.7 0)
 			(effects
 				(font
@@ -24339,7 +24338,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0127")
+					(reference "#PWR0134")
 					(unit 1)
 				)
 			)
@@ -24355,7 +24354,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f02873d8-517f-4e63-9952-608ddf64b322")
-		(property "Reference" "#PWR0167"
+		(property "Reference" "#PWR0174"
 			(at 281.94 167.64 0)
 			(effects
 				(font
@@ -24405,7 +24404,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0167")
+					(reference "#PWR0174")
 					(unit 1)
 				)
 			)
@@ -24437,7 +24436,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 452.12 67.31 0)
 			(effects
 				(font
@@ -24497,7 +24496,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f1fbe276-6ecd-4dc3-8b65-229a6abe8126")
-		(property "Reference" "#PWR011"
+		(property "Reference" "#PWR018"
 			(at 233.68 55.88 0)
 			(effects
 				(font
@@ -24547,7 +24546,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR011")
+					(reference "#PWR018")
 					(unit 1)
 				)
 			)
@@ -24580,7 +24579,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 473.71 151.13 0)
 			(effects
 				(font
@@ -24656,7 +24655,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 259.08 123.19 0)
 			(effects
 				(font
@@ -24716,7 +24715,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f4483632-d4a7-4ed5-ac35-2731cda2d320")
-		(property "Reference" "#PWR0164"
+		(property "Reference" "#PWR0171"
 			(at 209.55 167.64 0)
 			(effects
 				(font
@@ -24766,7 +24765,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0164")
+					(reference "#PWR0171")
 					(unit 1)
 				)
 			)
@@ -24783,7 +24782,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f60daaf4-548d-4974-8892-06cd707859a6")
-		(property "Reference" "#PWR0221"
+		(property "Reference" "#PWR0228"
 			(at 306.07 213.36 0)
 			(effects
 				(font
@@ -24833,7 +24832,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0221")
+					(reference "#PWR0228")
 					(unit 1)
 				)
 			)
@@ -24849,7 +24848,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f6dd7a3a-0186-4ce4-a618-6e1efcaf42ed")
-		(property "Reference" "#PWR0184"
+		(property "Reference" "#PWR0191"
 			(at 257.81 185.42 0)
 			(effects
 				(font
@@ -24899,7 +24898,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0184")
+					(reference "#PWR0191")
 					(unit 1)
 				)
 			)
@@ -24932,7 +24931,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 208.28 95.25 0)
 			(effects
 				(font
@@ -24993,7 +24992,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fadabfc1-5cf0-4b20-9f60-9d488c5d7a27")
-		(property "Reference" "#PWR075"
+		(property "Reference" "#PWR082"
 			(at 306.07 101.6 0)
 			(effects
 				(font
@@ -25043,7 +25042,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR075")
+					(reference "#PWR082")
 					(unit 1)
 				)
 			)
@@ -25075,7 +25074,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "my-footprints:LED_SK6812MINI_E"
 			(at 524.51 123.19 0)
 			(effects
 				(font
@@ -25135,7 +25134,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fda6456c-3ab5-4046-8233-22ec253e0043")
-		(property "Reference" "#PWR0116"
+		(property "Reference" "#PWR0123"
 			(at 281.94 129.54 0)
 			(effects
 				(font
@@ -25185,7 +25184,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0116")
+					(reference "#PWR0123")
 					(unit 1)
 				)
 			)
@@ -25202,7 +25201,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fdd1eddb-38bc-4e14-8fc1-129816400fb4")
-		(property "Reference" "#PWR0132"
+		(property "Reference" "#PWR0139"
 			(at 257.81 139.7 0)
 			(effects
 				(font
@@ -25252,7 +25251,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR0132")
+					(reference "#PWR0139")
 					(unit 1)
 				)
 			)
@@ -25268,7 +25267,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fdf218d5-c1dd-4cf3-aeda-6087916e66f3")
-		(property "Reference" "#PWR08"
+		(property "Reference" "#PWR015"
 			(at 161.29 55.88 0)
 			(effects
 				(font
@@ -25318,7 +25317,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR08")
+					(reference "#PWR015")
 					(unit 1)
 				)
 			)
@@ -25334,7 +25333,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fed6c331-a08c-4128-a78e-cab51cc0ab37")
-		(property "Reference" "#PWR027"
+		(property "Reference" "#PWR034"
 			(at 137.16 73.66 0)
 			(effects
 				(font
@@ -25384,7 +25383,7 @@
 		(instances
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
-					(reference "#PWR027")
+					(reference "#PWR034")
 					(unit 1)
 				)
 			)
