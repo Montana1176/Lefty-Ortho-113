@@ -5,6 +5,128 @@
 	(uuid "bb9b6759-8953-465a-a591-de68ba2c2281")
 	(paper "User" 558.8 279.4)
 	(lib_symbols
+		(symbol "Device:R_Small"
+			(pin_numbers hide)
+			(pin_names
+				(offset 0.254) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R"
+				(at 0.762 0.508 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "R_Small"
+				(at 0.762 -1.016 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Resistor, small symbol"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "R resistor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "R_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "R_Small_0_1"
+				(rectangle
+					(start -0.762 1.778)
+					(end 0.762 -1.778)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "R_Small_1_1"
+				(pin passive line
+					(at 0 2.54 270)
+					(length 0.762)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -2.54 90)
+					(length 0.762)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "my-symbols:SK6812MINI"
 			(pin_names
 				(offset 0.254)
@@ -779,6 +901,16 @@
 			(type default)
 		)
 		(uuid "40fa566b-453e-422e-b7d6-54b897052b86")
+	)
+	(wire
+		(pts
+			(xy 22.86 59.69) (xy 25.4 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "426d1b96-4b57-4dfc-adb8-83b42266cb3b")
 	)
 	(wire
 		(pts
@@ -1602,6 +1734,16 @@
 	)
 	(wire
 		(pts
+			(xy 30.48 59.69) (xy 33.02 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f7a4588f-3522-4e56-8010-0a44ef82d6a5")
+	)
+	(wire
+		(pts
 			(xy 386.08 59.69) (xy 394.97 59.69)
 		)
 		(stroke
@@ -1632,7 +1774,7 @@
 	)
 	(global_label "NP_IN"
 		(shape input)
-		(at 33.02 59.69 180)
+		(at 22.86 59.69 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1642,7 +1784,7 @@
 		)
 		(uuid "8b74eaa5-c3bd-4fee-b99f-1b98a74d026f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 24.5314 59.69 0)
+			(at 14.3714 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25384,6 +25526,74 @@
 			(project "ortho113"
 				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
 					(reference "#PWR034")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 27.94 59.69 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ff52da08-3f3d-4e51-bea9-5340e19c9ba4")
+		(property "Reference" "R3"
+			(at 27.686 59.69 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "500"
+			(at 27.94 61.722 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_1812_4532Metric_Pad1.30x3.40mm_HandSolder"
+			(at 27.94 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 27.94 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 27.94 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e5dd3772-78fd-4627-8db2-4885f5f48157")
+		)
+		(pin "2"
+			(uuid "310cf660-9967-4c8f-9bb9-d2a9489e8fe8")
+		)
+		(instances
+			(project "ortho113"
+				(path "/54fa9a7b-8fd8-4dda-b874-5f01b1f0cdfe/5fabd55d-e962-4cb6-8fb4-37116166ba8a"
+					(reference "R3")
 					(unit 1)
 				)
 			)
